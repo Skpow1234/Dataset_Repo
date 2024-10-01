@@ -1,0 +1,1001 @@
+ID_Venta,Fecha_Venta,Producto,Categoria,Cantidad,Precio_Unitario,Ciudad,Método_Pago,Total_Venta
+1,2023-05-04,Celular,Informática,5,619.21,Ciudad de México,PayPal,3096.05
+2,2022-02-22,Tablet,Accesorios,8,221.1,Lima,PayPal,1768.8
+3,2022-11-27,Reloj Inteligente,Informática,10,150.76,Quito,PayPal,1507.6
+4,2022-06-16,Bocina,Telefonía,6,236.42,Bogotá,Tarjeta de Crédito,1418.52
+5,2023-02-06,Celular,Informática,9,1226.86,Ciudad de México,PayPal,11041.74
+6,2023-01-30,Cámara,Informática,10,546.89,Buenos Aires,PayPal,5468.9
+7,2023-12-08,Computadora,Telefonía,6,351.78,La Paz,Transferencia Bancaria,2110.68
+8,2023-04-07,Televisión,Informática,6,358.83,Bogotá,Efectivo,2152.98
+9,2022-12-24,Computadora,Electrónica,5,836.55,Santiago,PayPal,4182.75
+10,2022-11-11,Consola de Videojuegos,Telefonía,10,715.24,Bogotá,PayPal,7152.4
+11,2022-04-28,Bocina,Informática,5,570.82,Buenos Aires,Efectivo,2854.1000000000004
+12,2022-03-01,Reloj Inteligente,Accesorios,5,598.29,Caracas,PayPal,2991.45
+13,2023-01-11,Tablet,Telefonía,7,62.17,Caracas,Tarjeta de Crédito,435.19
+14,2023-04-21,Tablet,Telefonía,3,885.19,Caracas,Tarjeta de Crédito,2655.57
+15,2022-06-19,Computadora,Accesorios,6,555.57,Buenos Aires,Transferencia Bancaria,3333.42
+16,2023-04-20,Bocina,Accesorios,1,260.83,Santiago,Efectivo,260.83
+17,2022-11-19,Reloj Inteligente,Accesorios,4,1460.51,Quito,Transferencia Bancaria,5842.04
+18,2022-10-11,Tablet,Informática,3,1313.23,Ciudad de México,Tarjeta de Crédito,3939.69
+19,2023-09-13,Celular,Electrónica,2,1261.93,Ciudad de México,Efectivo,2523.86
+20,2023-04-28,Bocina,Telefonía,9,1399.26,Quito,Tarjeta de Crédito,12593.34
+21,2022-10-02,Celular,Informática,7,549.19,Bogotá,PayPal,3844.3300000000004
+22,2022-09-01,Televisión,Accesorios,1,807.04,Santiago,Transferencia Bancaria,807.04
+23,2023-06-21,Reloj Inteligente,Informática,3,1269.78,Bogotá,Transferencia Bancaria,3809.34
+24,2023-10-06,Televisión,Telefonía,3,1415.28,Caracas,Transferencia Bancaria,4245.84
+25,2022-05-12,Consola de Videojuegos,Electrónica,3,1061.11,La Paz,Transferencia Bancaria,3183.33
+26,2023-05-19,Televisión,Telefonía,7,945.88,Lima,Efectivo,6621.16
+27,2023-10-23,Tablet,Telefonía,4,451.6,La Paz,Transferencia Bancaria,1806.4
+28,2023-05-01,Tablet,Informática,7,372.75,Quito,Efectivo,2609.25
+29,2022-10-02,Tablet,Telefonía,7,612.29,La Paz,Efectivo,4286.03
+30,2023-01-29,Computadora,Telefonía,9,846.59,Ciudad de México,Tarjeta de Crédito,7619.31
+31,2022-07-26,Consola de Videojuegos,Accesorios,10,260.56,Caracas,Transferencia Bancaria,2605.6
+32,2023-01-03,Celular,Electrónica,5,612.16,Buenos Aires,Efectivo,3060.7999999999997
+33,2023-09-08,Tablet,Accesorios,10,531.02,Bogotá,PayPal,5310.2
+34,2023-05-18,Televisión,Electrónica,2,601.39,Quito,Efectivo,1202.78
+35,2022-03-21,Tablet,Telefonía,2,1226.47,Lima,Tarjeta de Crédito,2452.94
+36,2023-07-22,Bocina,Electrónica,8,395.23,Buenos Aires,Tarjeta de Crédito,3161.84
+37,2022-05-10,Bocina,Electrónica,4,103.42,Caracas,Tarjeta de Crédito,413.68
+38,2022-10-10,Computadora,Informática,10,1169.63,La Paz,Tarjeta de Crédito,11696.300000000001
+39,2023-03-27,Reloj Inteligente,Telefonía,9,980.51,Quito,Transferencia Bancaria,8824.59
+40,2022-09-09,Celular,Accesorios,8,157.09,Buenos Aires,PayPal,1256.72
+41,2022-08-24,Tablet,Telefonía,8,776.09,Santiago,PayPal,6208.72
+42,2022-07-28,Tablet,Informática,6,583.25,Ciudad de México,Tarjeta de Crédito,3499.5
+43,2022-11-08,Consola de Videojuegos,Accesorios,8,1128.09,Buenos Aires,PayPal,9024.72
+44,2022-12-12,Bocina,Informática,1,413.67,Quito,Efectivo,413.67
+45,2022-02-03,Celular,Electrónica,6,58.87,Quito,Transferencia Bancaria,353.21999999999997
+46,2023-10-12,Televisión,Electrónica,7,1364.09,Buenos Aires,Efectivo,9548.63
+47,2023-05-18,Computadora,Informática,6,875.16,Buenos Aires,Efectivo,5250.96
+48,2022-05-05,Reloj Inteligente,Telefonía,10,214.55,Bogotá,PayPal,2145.5
+49,2022-04-05,Televisión,Electrónica,4,783.49,La Paz,PayPal,3133.96
+50,2023-10-21,Celular,Informática,3,980.12,Buenos Aires,PayPal,2940.36
+51,2022-01-07,Celular,Electrónica,2,1356.94,Quito,Efectivo,2713.88
+52,2022-10-27,Televisión,Telefonía,8,956.29,Buenos Aires,Tarjeta de Crédito,7650.32
+53,2023-07-15,Televisión,Telefonía,3,1178.35,Caracas,PayPal,3535.0499999999997
+54,2023-02-23,Cámara,Electrónica,9,1041.99,La Paz,PayPal,9377.91
+55,2023-07-25,Computadora,Informática,8,1065.32,Quito,Transferencia Bancaria,8522.56
+56,2023-08-22,Bocina,Electrónica,9,116.74,Santiago,Efectivo,1050.6599999999999
+57,2023-01-15,Televisión,Electrónica,5,308.63,Quito,Tarjeta de Crédito,1543.15
+58,2023-09-22,Tablet,Informática,7,829.09,Buenos Aires,PayPal,5803.63
+59,2023-10-23,Computadora,Informática,5,991.56,Buenos Aires,Efectivo,4957.799999999999
+60,2023-02-01,Bocina,Electrónica,6,1158.45,Buenos Aires,PayPal,6950.700000000001
+61,2023-06-13,Televisión,Telefonía,5,1139.08,Santiago,PayPal,5695.4
+62,2023-08-09,Bocina,Electrónica,3,50.45,Lima,Transferencia Bancaria,151.35000000000002
+63,2022-08-26,Televisión,Accesorios,5,1182.48,Santiago,Tarjeta de Crédito,5912.4
+64,2023-12-25,Cámara,Electrónica,8,231.53,Caracas,Transferencia Bancaria,1852.24
+65,2022-01-11,Tablet,Telefonía,4,307.04,Santiago,Tarjeta de Crédito,1228.16
+66,2023-02-28,Cámara,Electrónica,3,1168.11,Bogotá,PayPal,3504.33
+67,2023-01-12,Cámara,Telefonía,6,523.14,La Paz,PayPal,3138.84
+68,2023-03-01,Celular,Accesorios,7,614.92,Bogotá,Tarjeta de Crédito,4304.44
+69,2023-12-04,Consola de Videojuegos,Accesorios,2,698.33,Santiago,Transferencia Bancaria,1396.66
+70,2022-03-25,Bocina,Electrónica,10,385.74,Bogotá,PayPal,3857.4
+71,2023-08-21,Bocina,Electrónica,2,1177.54,Quito,Tarjeta de Crédito,2355.08
+72,2023-10-22,Cámara,Electrónica,3,1153.95,Buenos Aires,Efectivo,3461.8500000000004
+73,2022-08-02,Celular,Electrónica,1,809.78,Buenos Aires,Efectivo,809.78
+74,2022-01-24,Celular,Electrónica,8,1354.46,La Paz,Tarjeta de Crédito,10835.68
+75,2023-06-21,Reloj Inteligente,Electrónica,3,1347.92,Ciudad de México,Tarjeta de Crédito,4043.76
+76,2022-11-07,Tablet,Telefonía,10,526.85,La Paz,PayPal,5268.5
+77,2022-03-13,Computadora,Informática,10,1371.71,Ciudad de México,Efectivo,13717.1
+78,2023-09-19,Tablet,Telefonía,9,617.78,Buenos Aires,Efectivo,5560.0199999999995
+79,2022-09-08,Celular,Electrónica,6,911.44,Caracas,Transferencia Bancaria,5468.64
+80,2023-03-09,Celular,Accesorios,3,980.3,Bogotá,PayPal,2940.8999999999996
+81,2022-01-13,Bocina,Accesorios,8,282.29,Ciudad de México,Efectivo,2258.32
+82,2023-03-21,Bocina,Electrónica,8,524.57,Quito,PayPal,4196.56
+83,2022-03-28,Consola de Videojuegos,Telefonía,6,1493.97,Caracas,Transferencia Bancaria,8963.82
+84,2023-09-22,Cámara,Electrónica,1,1046.31,Quito,Tarjeta de Crédito,1046.31
+85,2023-05-13,Celular,Telefonía,1,1363.25,Ciudad de México,Efectivo,1363.25
+86,2022-04-29,Celular,Electrónica,5,1474.69,Caracas,Transferencia Bancaria,7373.450000000001
+87,2023-07-15,Bocina,Informática,4,272.53,Lima,Efectivo,1090.12
+88,2023-04-14,Cámara,Informática,2,482.57,Caracas,Transferencia Bancaria,965.14
+89,2023-08-29,Televisión,Telefonía,8,1286.53,Buenos Aires,Tarjeta de Crédito,10292.24
+90,2023-08-21,Reloj Inteligente,Informática,10,1247.69,Ciudad de México,Efectivo,12476.900000000001
+91,2022-11-12,Bocina,Accesorios,10,814.8,Ciudad de México,Transferencia Bancaria,8148.0
+92,2023-10-06,Computadora,Electrónica,6,701.82,Bogotá,Transferencia Bancaria,4210.92
+93,2022-08-25,Celular,Accesorios,5,884.57,Ciudad de México,Efectivo,4422.85
+94,2023-10-07,Televisión,Telefonía,1,925.63,Caracas,Transferencia Bancaria,925.63
+95,2022-07-11,Reloj Inteligente,Accesorios,1,145.81,Quito,Transferencia Bancaria,145.81
+96,2022-07-19,Bocina,Accesorios,9,1221.51,Lima,Transferencia Bancaria,10993.59
+97,2023-01-17,Reloj Inteligente,Informática,10,1092.6,Santiago,Efectivo,10926.0
+98,2022-02-12,Consola de Videojuegos,Telefonía,3,150.96,La Paz,PayPal,452.88
+99,2023-04-24,Bocina,Telefonía,10,747.94,Lima,Tarjeta de Crédito,7479.400000000001
+100,2023-06-24,Televisión,Informática,5,258.11,Buenos Aires,PayPal,1290.5500000000002
+101,2023-10-30,Computadora,Electrónica,2,751.95,La Paz,Transferencia Bancaria,1503.9
+102,2023-08-07,Cámara,Informática,6,463.42,Buenos Aires,PayPal,2780.52
+103,2022-02-21,Bocina,Electrónica,7,257.17,Caracas,Transferencia Bancaria,1800.19
+104,2022-04-12,Consola de Videojuegos,Informática,4,1377.74,Santiago,Efectivo,5510.96
+105,2023-03-13,Tablet,Electrónica,7,157.07,Santiago,PayPal,1099.49
+106,2022-03-23,Bocina,Accesorios,4,1361.16,Caracas,Transferencia Bancaria,5444.64
+107,2022-12-07,Bocina,Electrónica,5,1088.13,Buenos Aires,PayPal,5440.650000000001
+108,2023-01-07,Computadora,Accesorios,5,1018.59,Bogotá,PayPal,5092.95
+109,2022-11-27,Cámara,Telefonía,1,1085.09,Santiago,Tarjeta de Crédito,1085.09
+110,2022-06-17,Bocina,Informática,2,390.7,La Paz,Transferencia Bancaria,781.4
+111,2022-12-17,Reloj Inteligente,Accesorios,3,1262.32,Caracas,Transferencia Bancaria,3786.96
+112,2022-04-11,Reloj Inteligente,Informática,4,606.86,Lima,Transferencia Bancaria,2427.44
+113,2022-06-06,Bocina,Informática,6,564.76,Ciudad de México,Efectivo,3388.56
+114,2023-12-05,Tablet,Informática,8,970.96,Ciudad de México,PayPal,7767.68
+115,2022-01-19,Cámara,Electrónica,7,1313.0,La Paz,Tarjeta de Crédito,9191.0
+116,2022-09-10,Tablet,Informática,9,311.47,Caracas,Efectivo,2803.2300000000005
+117,2023-01-06,Cámara,Accesorios,7,417.67,Caracas,Efectivo,2923.69
+118,2022-11-26,Cámara,Informática,3,1097.88,Caracas,Transferencia Bancaria,3293.6400000000003
+119,2022-12-15,Consola de Videojuegos,Accesorios,7,762.48,La Paz,Tarjeta de Crédito,5337.360000000001
+120,2022-07-02,Celular,Telefonía,9,921.67,Buenos Aires,Efectivo,8295.029999999999
+121,2022-12-26,Consola de Videojuegos,Telefonía,4,430.58,Ciudad de México,Tarjeta de Crédito,1722.32
+122,2022-07-10,Reloj Inteligente,Accesorios,1,1325.66,Ciudad de México,Transferencia Bancaria,1325.66
+123,2023-07-22,Cámara,Telefonía,8,1390.7,Caracas,PayPal,11125.6
+124,2023-03-02,Televisión,Electrónica,8,385.47,Ciudad de México,PayPal,3083.76
+125,2022-12-24,Bocina,Telefonía,5,366.6,Santiago,Transferencia Bancaria,1833.0
+126,2022-10-12,Cámara,Accesorios,5,535.88,Santiago,Transferencia Bancaria,2679.4
+127,2022-10-11,Televisión,Accesorios,2,267.33,Bogotá,PayPal,534.66
+128,2022-12-06,Computadora,Informática,9,823.8,Ciudad de México,PayPal,7414.2
+129,2022-11-22,Consola de Videojuegos,Telefonía,1,613.29,Buenos Aires,Transferencia Bancaria,613.29
+130,2022-09-18,Celular,Accesorios,10,193.14,Caracas,Transferencia Bancaria,1931.3999999999999
+131,2022-03-03,Cámara,Accesorios,2,1332.89,Quito,Tarjeta de Crédito,2665.78
+132,2023-09-26,Bocina,Informática,1,356.18,Buenos Aires,Tarjeta de Crédito,356.18
+133,2022-10-22,Consola de Videojuegos,Informática,8,351.35,Bogotá,Efectivo,2810.8
+134,2023-08-24,Consola de Videojuegos,Informática,6,1082.93,Caracas,Efectivo,6497.58
+135,2022-12-16,Computadora,Electrónica,7,987.61,Caracas,Transferencia Bancaria,6913.27
+136,2022-01-31,Reloj Inteligente,Electrónica,10,1210.93,Bogotá,Tarjeta de Crédito,12109.300000000001
+137,2022-05-03,Computadora,Accesorios,10,505.45,Lima,Efectivo,5054.5
+138,2022-06-23,Tablet,Accesorios,10,750.02,Caracas,PayPal,7500.2
+139,2022-05-27,Bocina,Electrónica,3,666.71,Quito,PayPal,2000.13
+140,2023-11-05,Consola de Videojuegos,Accesorios,7,1425.51,Lima,Efectivo,9978.57
+141,2023-05-01,Tablet,Informática,5,341.58,Bogotá,PayPal,1707.8999999999999
+142,2023-09-03,Bocina,Accesorios,10,289.43,Quito,Efectivo,2894.3
+143,2023-11-03,Reloj Inteligente,Accesorios,5,1297.16,Lima,Transferencia Bancaria,6485.8
+144,2022-03-03,Televisión,Electrónica,8,649.04,Bogotá,PayPal,5192.32
+145,2022-12-15,Televisión,Accesorios,6,967.33,La Paz,Transferencia Bancaria,5803.9800000000005
+146,2023-12-08,Reloj Inteligente,Electrónica,10,727.74,Bogotá,Tarjeta de Crédito,7277.4
+147,2023-04-11,Consola de Videojuegos,Accesorios,8,103.19,Quito,Efectivo,825.52
+148,2023-04-19,Bocina,Telefonía,6,313.81,Buenos Aires,Efectivo,1882.8600000000001
+149,2023-10-16,Computadora,Telefonía,5,125.14,Buenos Aires,Efectivo,625.7
+150,2022-04-23,Bocina,Accesorios,9,954.18,Santiago,Transferencia Bancaria,8587.619999999999
+151,2023-09-26,Reloj Inteligente,Informática,6,366.65,La Paz,Efectivo,2199.8999999999996
+152,2023-03-13,Cámara,Electrónica,6,1110.35,Santiago,Tarjeta de Crédito,6662.099999999999
+153,2023-03-06,Consola de Videojuegos,Electrónica,4,1345.93,Caracas,Tarjeta de Crédito,5383.72
+154,2023-06-22,Cámara,Accesorios,5,371.38,Ciudad de México,PayPal,1856.9
+155,2023-01-04,Celular,Electrónica,8,604.94,Buenos Aires,Efectivo,4839.52
+156,2023-08-24,Consola de Videojuegos,Telefonía,8,914.32,Ciudad de México,PayPal,7314.56
+157,2023-01-23,Cámara,Telefonía,6,968.03,Caracas,Efectivo,5808.18
+158,2023-02-06,Consola de Videojuegos,Accesorios,4,1002.73,Buenos Aires,Transferencia Bancaria,4010.92
+159,2023-01-14,Bocina,Informática,4,276.39,Buenos Aires,PayPal,1105.56
+160,2022-05-30,Reloj Inteligente,Telefonía,8,916.47,La Paz,Efectivo,7331.76
+161,2022-12-13,Tablet,Telefonía,4,1181.73,Santiago,Efectivo,4726.92
+162,2022-08-04,Computadora,Accesorios,7,738.24,Ciudad de México,PayPal,5167.68
+163,2022-04-02,Televisión,Electrónica,5,184.87,Ciudad de México,Transferencia Bancaria,924.35
+164,2023-09-24,Computadora,Accesorios,7,893.17,La Paz,PayPal,6252.19
+165,2022-04-08,Cámara,Telefonía,2,466.57,Quito,PayPal,933.14
+166,2022-07-12,Consola de Videojuegos,Telefonía,4,830.86,Santiago,PayPal,3323.44
+167,2022-02-25,Celular,Electrónica,4,942.82,Lima,PayPal,3771.28
+168,2023-01-19,Televisión,Accesorios,5,1299.58,Caracas,Transferencia Bancaria,6497.9
+169,2022-04-20,Computadora,Informática,4,1317.74,Buenos Aires,Transferencia Bancaria,5270.96
+170,2023-10-09,Consola de Videojuegos,Electrónica,9,375.38,Lima,Tarjeta de Crédito,3378.42
+171,2022-06-13,Televisión,Electrónica,10,761.92,Bogotá,PayPal,7619.2
+172,2022-04-08,Bocina,Electrónica,9,220.15,Santiago,Tarjeta de Crédito,1981.3500000000001
+173,2022-02-13,Computadora,Accesorios,8,228.88,Bogotá,Tarjeta de Crédito,1831.04
+174,2022-10-10,Tablet,Informática,6,939.36,Bogotá,Tarjeta de Crédito,5636.16
+175,2023-08-22,Televisión,Electrónica,8,509.95,Lima,PayPal,4079.6
+176,2023-09-07,Celular,Informática,7,634.3,Ciudad de México,PayPal,4440.099999999999
+177,2023-01-19,Reloj Inteligente,Accesorios,2,1137.72,Quito,Tarjeta de Crédito,2275.44
+178,2023-08-02,Tablet,Accesorios,3,1009.17,Buenos Aires,Transferencia Bancaria,3027.5099999999998
+179,2022-02-11,Bocina,Informática,2,1369.45,Ciudad de México,Tarjeta de Crédito,2738.9
+180,2022-10-03,Computadora,Informática,5,1106.49,Santiago,Tarjeta de Crédito,5532.45
+181,2022-09-12,Reloj Inteligente,Informática,1,1160.42,Caracas,Efectivo,1160.42
+182,2023-04-11,Tablet,Informática,7,310.14,Bogotá,PayPal,2170.98
+183,2023-03-10,Cámara,Accesorios,6,236.19,Lima,Tarjeta de Crédito,1417.1399999999999
+184,2022-03-23,Cámara,Electrónica,8,1119.44,Buenos Aires,Efectivo,8955.52
+185,2022-05-23,Bocina,Telefonía,3,559.74,Caracas,Efectivo,1679.22
+186,2022-02-06,Consola de Videojuegos,Electrónica,7,1442.32,Buenos Aires,PayPal,10096.24
+187,2022-03-26,Reloj Inteligente,Telefonía,7,1450.67,Caracas,Transferencia Bancaria,10154.69
+188,2022-07-28,Televisión,Electrónica,9,728.68,Ciudad de México,Tarjeta de Crédito,6558.12
+189,2022-01-19,Celular,Telefonía,1,1108.46,Santiago,Efectivo,1108.46
+190,2022-07-25,Televisión,Telefonía,9,572.15,Caracas,PayPal,5149.349999999999
+191,2022-03-11,Televisión,Informática,1,1037.69,Caracas,Tarjeta de Crédito,1037.69
+192,2023-06-25,Celular,Telefonía,4,174.77,Caracas,PayPal,699.08
+193,2023-12-10,Televisión,Informática,7,1356.12,La Paz,Efectivo,9492.84
+194,2022-11-27,Reloj Inteligente,Informática,8,492.95,La Paz,PayPal,3943.6
+195,2023-10-31,Bocina,Informática,8,1461.52,Caracas,PayPal,11692.16
+196,2022-06-04,Computadora,Informática,4,1430.67,La Paz,Transferencia Bancaria,5722.68
+197,2022-02-12,Tablet,Informática,4,361.11,Quito,PayPal,1444.44
+198,2022-06-12,Computadora,Informática,7,805.71,La Paz,Tarjeta de Crédito,5639.97
+199,2022-07-25,Bocina,Informática,7,1224.33,Ciudad de México,Transferencia Bancaria,8570.31
+200,2022-02-24,Computadora,Accesorios,5,1167.98,Quito,Tarjeta de Crédito,5839.9
+201,2022-08-17,Televisión,Electrónica,4,394.28,Quito,Tarjeta de Crédito,1577.12
+202,2023-11-11,Televisión,Telefonía,2,1467.04,La Paz,PayPal,2934.08
+203,2023-12-27,Televisión,Electrónica,6,235.52,Lima,Tarjeta de Crédito,1413.1200000000001
+204,2022-07-28,Reloj Inteligente,Informática,5,1494.57,Bogotá,Transferencia Bancaria,7472.849999999999
+205,2022-10-08,Reloj Inteligente,Telefonía,2,766.74,Santiago,PayPal,1533.48
+206,2023-04-18,Bocina,Telefonía,2,845.96,Quito,Transferencia Bancaria,1691.92
+207,2023-04-21,Tablet,Telefonía,4,796.22,Quito,PayPal,3184.88
+208,2022-11-03,Consola de Videojuegos,Informática,10,305.15,Caracas,Transferencia Bancaria,3051.5
+209,2022-09-28,Tablet,Electrónica,7,699.19,Lima,Efectivo,4894.33
+210,2023-03-24,Cámara,Informática,5,1226.98,Buenos Aires,PayPal,6134.9
+211,2022-02-17,Tablet,Informática,10,1387.35,Buenos Aires,Tarjeta de Crédito,13873.5
+212,2022-08-20,Tablet,Telefonía,3,641.39,Lima,Transferencia Bancaria,1924.17
+213,2022-10-05,Bocina,Telefonía,5,529.94,Lima,Efectivo,2649.7000000000003
+214,2022-02-28,Computadora,Telefonía,3,896.28,Santiago,Efectivo,2688.84
+215,2022-09-06,Televisión,Informática,9,142.24,Ciudad de México,Transferencia Bancaria,1280.16
+216,2022-08-08,Bocina,Informática,2,858.28,La Paz,Tarjeta de Crédito,1716.56
+217,2022-10-31,Cámara,Informática,10,1110.63,Bogotá,Transferencia Bancaria,11106.300000000001
+218,2022-12-14,Tablet,Telefonía,4,1254.38,Quito,PayPal,5017.52
+219,2022-05-19,Televisión,Electrónica,10,1303.65,La Paz,PayPal,13036.5
+220,2023-09-14,Celular,Informática,7,130.38,Quito,Efectivo,912.66
+221,2022-01-14,Televisión,Telefonía,5,360.07,Lima,Efectivo,1800.35
+222,2022-08-28,Cámara,Informática,3,775.68,Ciudad de México,Transferencia Bancaria,2327.04
+223,2022-12-02,Televisión,Informática,5,664.99,Ciudad de México,Transferencia Bancaria,3324.95
+224,2023-05-25,Celular,Accesorios,6,1091.45,La Paz,PayPal,6548.700000000001
+225,2023-06-13,Tablet,Electrónica,6,1111.35,Santiago,PayPal,6668.099999999999
+226,2023-05-18,Bocina,Informática,4,897.41,Bogotá,PayPal,3589.64
+227,2023-02-17,Cámara,Informática,3,1178.92,Ciudad de México,PayPal,3536.76
+228,2023-06-05,Tablet,Electrónica,9,1489.12,Caracas,PayPal,13402.079999999998
+229,2023-12-16,Cámara,Electrónica,5,591.79,Buenos Aires,Transferencia Bancaria,2958.95
+230,2022-03-22,Tablet,Accesorios,10,1461.61,Bogotá,Transferencia Bancaria,14616.099999999999
+231,2023-07-20,Tablet,Electrónica,4,539.14,Ciudad de México,Transferencia Bancaria,2156.56
+232,2022-10-19,Celular,Accesorios,7,229.59,Bogotá,PayPal,1607.13
+233,2023-12-24,Computadora,Accesorios,8,922.81,Bogotá,Transferencia Bancaria,7382.48
+234,2023-06-25,Computadora,Telefonía,6,144.84,Bogotá,Tarjeta de Crédito,869.04
+235,2022-06-29,Cámara,Telefonía,4,867.02,Buenos Aires,PayPal,3468.08
+236,2022-05-30,Celular,Informática,1,595.82,Lima,PayPal,595.82
+237,2023-03-16,Cámara,Informática,9,315.2,La Paz,Tarjeta de Crédito,2836.7999999999997
+238,2023-09-30,Consola de Videojuegos,Electrónica,8,617.08,Santiago,Tarjeta de Crédito,4936.64
+239,2023-06-09,Cámara,Telefonía,1,502.61,Santiago,Efectivo,502.61
+240,2023-08-22,Celular,Telefonía,3,201.89,Santiago,Efectivo,605.67
+241,2023-02-10,Tablet,Informática,8,90.83,Bogotá,Transferencia Bancaria,726.64
+242,2022-09-13,Televisión,Telefonía,10,585.64,Santiago,PayPal,5856.4
+243,2022-02-25,Reloj Inteligente,Accesorios,1,1197.39,Buenos Aires,Efectivo,1197.39
+244,2022-01-06,Reloj Inteligente,Electrónica,1,1396.72,Buenos Aires,Efectivo,1396.72
+245,2022-05-16,Tablet,Informática,5,1473.22,Lima,Transferencia Bancaria,7366.1
+246,2022-07-09,Consola de Videojuegos,Electrónica,1,475.01,Quito,Tarjeta de Crédito,475.01
+247,2023-06-22,Celular,Accesorios,5,281.26,Santiago,Transferencia Bancaria,1406.3
+248,2023-03-08,Celular,Electrónica,2,817.32,Caracas,PayPal,1634.64
+249,2023-08-22,Consola de Videojuegos,Informática,6,800.61,La Paz,PayPal,4803.66
+250,2022-05-20,Reloj Inteligente,Electrónica,9,1266.24,Lima,Efectivo,11396.16
+251,2023-10-07,Cámara,Informática,3,1335.32,La Paz,Efectivo,4005.96
+252,2022-02-08,Reloj Inteligente,Electrónica,4,510.85,Quito,PayPal,2043.4
+253,2022-03-01,Cámara,Informática,10,907.67,Bogotá,PayPal,9076.699999999999
+254,2022-04-28,Computadora,Informática,2,462.82,Quito,Efectivo,925.64
+255,2022-07-27,Consola de Videojuegos,Accesorios,7,182.47,Lima,Tarjeta de Crédito,1277.29
+256,2023-10-08,Celular,Informática,2,1369.41,Buenos Aires,PayPal,2738.82
+257,2022-07-29,Consola de Videojuegos,Electrónica,2,462.53,Caracas,PayPal,925.06
+258,2022-07-16,Reloj Inteligente,Accesorios,9,306.95,Buenos Aires,Transferencia Bancaria,2762.5499999999997
+259,2023-07-18,Celular,Accesorios,5,451.42,Ciudad de México,Efectivo,2257.1
+260,2022-03-09,Computadora,Telefonía,8,1116.86,La Paz,Transferencia Bancaria,8934.88
+261,2022-01-19,Tablet,Electrónica,8,664.91,Bogotá,Efectivo,5319.28
+262,2023-01-31,Cámara,Telefonía,2,482.55,Ciudad de México,Efectivo,965.1
+263,2023-08-11,Bocina,Telefonía,5,498.14,Ciudad de México,Transferencia Bancaria,2490.7
+264,2022-09-15,Bocina,Accesorios,6,1197.43,La Paz,Efectivo,7184.58
+265,2022-04-04,Consola de Videojuegos,Telefonía,10,1387.19,Ciudad de México,Tarjeta de Crédito,13871.900000000001
+266,2023-01-06,Cámara,Informática,4,226.01,Buenos Aires,Tarjeta de Crédito,904.04
+267,2022-05-13,Televisión,Electrónica,5,1088.29,Santiago,Transferencia Bancaria,5441.45
+268,2022-01-28,Televisión,Telefonía,2,495.65,Bogotá,Tarjeta de Crédito,991.3
+269,2022-12-30,Televisión,Informática,8,494.01,Ciudad de México,PayPal,3952.08
+270,2022-12-23,Cámara,Electrónica,6,1119.45,Lima,PayPal,6716.700000000001
+271,2022-12-22,Computadora,Informática,8,1234.11,Bogotá,PayPal,9872.88
+272,2022-04-26,Celular,Telefonía,8,88.44,Buenos Aires,Transferencia Bancaria,707.52
+273,2022-02-18,Consola de Videojuegos,Electrónica,9,1253.51,Caracas,Transferencia Bancaria,11281.59
+274,2022-07-18,Celular,Telefonía,4,551.0,Quito,Efectivo,2204.0
+275,2022-07-29,Bocina,Accesorios,4,1100.43,Buenos Aires,Tarjeta de Crédito,4401.72
+276,2023-04-07,Computadora,Electrónica,5,1170.33,Quito,PayPal,5851.65
+277,2022-04-08,Computadora,Accesorios,8,318.35,Buenos Aires,PayPal,2546.8
+278,2023-10-09,Computadora,Electrónica,5,482.03,Quito,PayPal,2410.1499999999996
+279,2022-05-12,Televisión,Informática,8,222.98,Caracas,Transferencia Bancaria,1783.84
+280,2023-10-19,Reloj Inteligente,Electrónica,10,377.63,Lima,PayPal,3776.3
+281,2022-08-10,Consola de Videojuegos,Accesorios,7,1304.53,Buenos Aires,Efectivo,9131.71
+282,2023-12-14,Reloj Inteligente,Informática,5,333.27,Caracas,Transferencia Bancaria,1666.35
+283,2023-03-22,Bocina,Telefonía,8,1161.2,Caracas,Transferencia Bancaria,9289.6
+284,2023-06-20,Cámara,Informática,2,94.65,Ciudad de México,Tarjeta de Crédito,189.3
+285,2022-05-28,Consola de Videojuegos,Accesorios,1,1301.77,Bogotá,PayPal,1301.77
+286,2023-02-05,Televisión,Electrónica,2,1228.33,Santiago,Efectivo,2456.66
+287,2023-01-27,Televisión,Informática,4,1354.95,Lima,Transferencia Bancaria,5419.8
+288,2022-02-20,Celular,Telefonía,6,1480.89,Lima,PayPal,8885.34
+289,2022-04-22,Televisión,Accesorios,10,1299.93,Quito,PayPal,12999.300000000001
+290,2023-11-30,Cámara,Telefonía,3,417.94,Ciudad de México,PayPal,1253.82
+291,2022-02-01,Televisión,Informática,5,580.62,Lima,Tarjeta de Crédito,2903.1
+292,2023-12-31,Consola de Videojuegos,Informática,10,867.69,Buenos Aires,PayPal,8676.900000000001
+293,2023-06-11,Consola de Videojuegos,Telefonía,6,214.2,La Paz,Efectivo,1285.1999999999998
+294,2022-03-21,Cámara,Accesorios,10,1432.01,Bogotá,Tarjeta de Crédito,14320.1
+295,2022-06-04,Computadora,Accesorios,7,151.13,Lima,Efectivo,1057.9099999999999
+296,2023-02-20,Tablet,Informática,6,262.41,Caracas,PayPal,1574.46
+297,2023-09-10,Cámara,Informática,10,586.65,Ciudad de México,Efectivo,5866.5
+298,2023-09-29,Computadora,Telefonía,4,185.0,Lima,Tarjeta de Crédito,740.0
+299,2022-12-21,Cámara,Electrónica,5,1311.68,Bogotá,PayPal,6558.400000000001
+300,2022-03-06,Reloj Inteligente,Electrónica,1,1015.92,Buenos Aires,Efectivo,1015.92
+301,2022-03-09,Celular,Informática,5,1475.39,Quito,PayPal,7376.950000000001
+302,2022-11-18,Celular,Informática,4,1176.08,Quito,Efectivo,4704.32
+303,2023-07-31,Computadora,Informática,8,121.34,Ciudad de México,Efectivo,970.72
+304,2023-10-19,Cámara,Accesorios,5,377.04,Ciudad de México,Tarjeta de Crédito,1885.2
+305,2022-06-20,Cámara,Telefonía,3,582.78,Lima,Transferencia Bancaria,1748.34
+306,2023-10-30,Reloj Inteligente,Accesorios,8,880.06,Caracas,Efectivo,7040.48
+307,2023-07-31,Cámara,Informática,8,512.82,La Paz,Tarjeta de Crédito,4102.56
+308,2023-06-29,Tablet,Accesorios,1,1148.67,Lima,PayPal,1148.67
+309,2023-05-20,Reloj Inteligente,Telefonía,1,956.12,Lima,Tarjeta de Crédito,956.12
+310,2023-06-01,Cámara,Telefonía,6,110.47,Caracas,PayPal,662.8199999999999
+311,2022-12-01,Celular,Telefonía,8,220.56,Buenos Aires,Transferencia Bancaria,1764.48
+312,2023-11-29,Tablet,Accesorios,8,1303.77,Quito,PayPal,10430.16
+313,2022-04-15,Tablet,Telefonía,8,904.02,Santiago,Tarjeta de Crédito,7232.16
+314,2022-05-30,Bocina,Informática,4,874.01,Caracas,Transferencia Bancaria,3496.04
+315,2022-09-27,Cámara,Telefonía,5,1042.28,Lima,Efectivo,5211.4
+316,2023-09-27,Televisión,Accesorios,5,368.57,Buenos Aires,PayPal,1842.85
+317,2022-04-02,Reloj Inteligente,Telefonía,3,509.82,Lima,PayPal,1529.46
+318,2022-06-24,Celular,Telefonía,5,304.7,Ciudad de México,PayPal,1523.5
+319,2022-11-10,Celular,Electrónica,3,267.41,Santiago,Transferencia Bancaria,802.23
+320,2022-10-12,Bocina,Telefonía,4,619.59,Caracas,Efectivo,2478.36
+321,2023-06-20,Tablet,Accesorios,2,1100.18,Ciudad de México,Tarjeta de Crédito,2200.36
+322,2022-10-13,Reloj Inteligente,Telefonía,4,799.63,Quito,Tarjeta de Crédito,3198.52
+323,2022-12-23,Reloj Inteligente,Informática,3,630.41,Quito,Transferencia Bancaria,1891.23
+324,2023-05-30,Bocina,Electrónica,10,1380.97,La Paz,PayPal,13809.7
+325,2022-03-21,Bocina,Electrónica,3,1134.7,La Paz,PayPal,3404.1000000000004
+326,2023-04-13,Televisión,Electrónica,2,207.5,La Paz,Tarjeta de Crédito,415.0
+327,2023-07-20,Computadora,Telefonía,1,949.88,Santiago,Efectivo,949.88
+328,2023-06-08,Consola de Videojuegos,Informática,9,950.65,Buenos Aires,Tarjeta de Crédito,8555.85
+329,2022-05-26,Consola de Videojuegos,Electrónica,6,855.76,Santiago,Transferencia Bancaria,5134.5599999999995
+330,2023-12-02,Tablet,Telefonía,10,998.71,Quito,Transferencia Bancaria,9987.1
+331,2023-11-09,Computadora,Accesorios,9,525.28,Lima,Efectivo,4727.5199999999995
+332,2022-07-25,Computadora,Accesorios,10,119.97,Santiago,Efectivo,1199.7
+333,2023-06-05,Bocina,Telefonía,10,728.56,Caracas,Efectivo,7285.599999999999
+334,2022-03-24,Reloj Inteligente,Telefonía,1,232.73,Bogotá,Efectivo,232.73
+335,2023-06-26,Computadora,Accesorios,8,925.3,Quito,Transferencia Bancaria,7402.4
+336,2022-06-28,Reloj Inteligente,Accesorios,3,428.48,Quito,Transferencia Bancaria,1285.44
+337,2022-03-03,Bocina,Electrónica,4,366.42,Santiago,Efectivo,1465.68
+338,2022-10-04,Consola de Videojuegos,Informática,10,1151.77,Lima,Transferencia Bancaria,11517.7
+339,2022-03-14,Consola de Videojuegos,Informática,3,1108.12,Santiago,Tarjeta de Crédito,3324.3599999999997
+340,2022-02-25,Tablet,Telefonía,8,1345.72,Caracas,Transferencia Bancaria,10765.76
+341,2023-11-28,Tablet,Electrónica,9,1374.42,Ciudad de México,Transferencia Bancaria,12369.78
+342,2023-11-13,Computadora,Informática,4,1447.94,Bogotá,Tarjeta de Crédito,5791.76
+343,2022-03-17,Computadora,Informática,10,1330.01,La Paz,Tarjeta de Crédito,13300.1
+344,2023-01-11,Televisión,Electrónica,3,1287.03,Quito,Transferencia Bancaria,3861.09
+345,2022-11-21,Consola de Videojuegos,Accesorios,6,1249.93,Buenos Aires,PayPal,7499.58
+346,2023-05-06,Televisión,Electrónica,4,585.61,Lima,Efectivo,2342.44
+347,2023-09-24,Consola de Videojuegos,Accesorios,7,294.95,Lima,Efectivo,2064.65
+348,2022-03-13,Celular,Electrónica,8,1487.69,La Paz,Tarjeta de Crédito,11901.52
+349,2022-04-01,Cámara,Telefonía,10,443.66,La Paz,Efectivo,4436.6
+350,2022-04-18,Computadora,Telefonía,4,461.41,Buenos Aires,Efectivo,1845.64
+351,2023-07-24,Cámara,Electrónica,9,248.69,Lima,PayPal,2238.21
+352,2022-02-02,Televisión,Accesorios,9,374.12,Quito,Efectivo,3367.08
+353,2023-12-20,Celular,Electrónica,7,1446.11,La Paz,Transferencia Bancaria,10122.769999999999
+354,2023-09-07,Consola de Videojuegos,Electrónica,6,257.6,La Paz,Transferencia Bancaria,1545.6000000000001
+355,2023-11-15,Cámara,Electrónica,10,894.39,Lima,PayPal,8943.9
+356,2022-12-03,Tablet,Informática,10,1218.48,Santiago,Tarjeta de Crédito,12184.8
+357,2023-02-06,Reloj Inteligente,Informática,5,1102.94,Bogotá,Efectivo,5514.700000000001
+358,2022-03-27,Reloj Inteligente,Accesorios,6,987.07,Bogotá,Transferencia Bancaria,5922.42
+359,2022-06-14,Consola de Videojuegos,Accesorios,3,641.04,Buenos Aires,PayPal,1923.12
+360,2022-09-30,Celular,Informática,9,377.69,Buenos Aires,Efectivo,3399.21
+361,2022-10-27,Tablet,Informática,10,150.26,Buenos Aires,PayPal,1502.6
+362,2022-06-30,Consola de Videojuegos,Informática,7,252.48,Bogotá,Tarjeta de Crédito,1767.36
+363,2022-08-17,Reloj Inteligente,Informática,5,1048.79,Ciudad de México,Efectivo,5243.95
+364,2022-11-09,Celular,Telefonía,1,692.83,Buenos Aires,PayPal,692.83
+365,2023-07-13,Reloj Inteligente,Informática,7,937.64,Ciudad de México,PayPal,6563.48
+366,2022-10-01,Bocina,Informática,5,576.92,Caracas,Tarjeta de Crédito,2884.6
+367,2023-04-02,Computadora,Telefonía,1,759.48,Bogotá,PayPal,759.48
+368,2023-01-25,Cámara,Electrónica,7,253.01,Ciudad de México,Transferencia Bancaria,1771.07
+369,2022-08-17,Reloj Inteligente,Telefonía,8,1163.93,Buenos Aires,Transferencia Bancaria,9311.44
+370,2023-03-26,Tablet,Informática,5,161.11,Buenos Aires,Tarjeta de Crédito,805.5500000000001
+371,2022-12-29,Reloj Inteligente,Telefonía,7,275.94,Bogotá,PayPal,1931.58
+372,2023-01-04,Bocina,Telefonía,5,389.85,Quito,Tarjeta de Crédito,1949.25
+373,2022-05-18,Reloj Inteligente,Telefonía,6,210.0,Quito,PayPal,1260.0
+374,2023-01-22,Celular,Telefonía,3,537.82,Santiago,Efectivo,1613.46
+375,2023-09-24,Celular,Informática,9,560.49,Santiago,PayPal,5044.41
+376,2023-12-04,Celular,Accesorios,5,1072.26,Bogotá,PayPal,5361.3
+377,2022-04-19,Televisión,Electrónica,5,1258.02,La Paz,PayPal,6290.1
+378,2023-04-07,Celular,Electrónica,2,668.92,Ciudad de México,PayPal,1337.84
+379,2022-07-07,Cámara,Electrónica,10,696.1,Quito,PayPal,6961.0
+380,2022-12-04,Tablet,Electrónica,6,1172.07,Caracas,Tarjeta de Crédito,7032.42
+381,2022-04-26,Televisión,Informática,5,340.57,Buenos Aires,Efectivo,1702.85
+382,2023-01-30,Televisión,Telefonía,4,633.21,Bogotá,Transferencia Bancaria,2532.84
+383,2023-01-27,Celular,Telefonía,1,63.55,Bogotá,Efectivo,63.55
+384,2023-02-20,Reloj Inteligente,Accesorios,10,730.48,Ciudad de México,PayPal,7304.8
+385,2023-12-15,Consola de Videojuegos,Accesorios,4,689.07,Quito,PayPal,2756.28
+386,2022-02-10,Celular,Informática,1,128.59,Quito,PayPal,128.59
+387,2023-11-04,Bocina,Accesorios,2,1022.69,Santiago,Transferencia Bancaria,2045.38
+388,2022-02-17,Computadora,Informática,8,725.55,Buenos Aires,Efectivo,5804.4
+389,2023-06-22,Reloj Inteligente,Informática,4,1002.06,Buenos Aires,Transferencia Bancaria,4008.24
+390,2022-10-09,Consola de Videojuegos,Telefonía,9,1076.53,Ciudad de México,Efectivo,9688.77
+391,2023-12-23,Reloj Inteligente,Informática,5,408.38,Santiago,Transferencia Bancaria,2041.9
+392,2023-02-07,Consola de Videojuegos,Telefonía,3,1017.59,Ciudad de México,Tarjeta de Crédito,3052.77
+393,2022-11-24,Bocina,Electrónica,1,657.41,Caracas,Tarjeta de Crédito,657.41
+394,2022-08-11,Cámara,Accesorios,9,747.39,La Paz,Transferencia Bancaria,6726.51
+395,2022-01-31,Computadora,Electrónica,7,1313.84,Santiago,Tarjeta de Crédito,9196.88
+396,2022-11-29,Celular,Informática,3,874.73,Ciudad de México,PayPal,2624.19
+397,2022-10-21,Bocina,Informática,2,1197.83,Santiago,Efectivo,2395.66
+398,2023-08-14,Celular,Electrónica,9,85.91,Bogotá,Efectivo,773.1899999999999
+399,2022-07-29,Consola de Videojuegos,Informática,1,1025.94,La Paz,Tarjeta de Crédito,1025.94
+400,2022-09-15,Televisión,Informática,3,845.4,Bogotá,Efectivo,2536.2
+401,2022-10-08,Televisión,Accesorios,3,158.18,Bogotá,PayPal,474.54
+402,2023-03-01,Reloj Inteligente,Accesorios,5,901.51,Bogotá,Tarjeta de Crédito,4507.55
+403,2022-05-29,Bocina,Telefonía,7,291.91,La Paz,Tarjeta de Crédito,2043.3700000000001
+404,2023-11-01,Computadora,Electrónica,3,504.51,La Paz,Tarjeta de Crédito,1513.53
+405,2023-05-25,Celular,Accesorios,6,108.59,Caracas,Efectivo,651.54
+406,2022-09-19,Tablet,Accesorios,5,1462.2,Buenos Aires,Transferencia Bancaria,7311.0
+407,2023-03-06,Cámara,Electrónica,4,64.61,Buenos Aires,Efectivo,258.44
+408,2023-10-04,Consola de Videojuegos,Accesorios,9,996.07,Lima,PayPal,8964.630000000001
+409,2022-02-08,Cámara,Accesorios,1,868.98,Quito,Efectivo,868.98
+410,2023-06-03,Televisión,Accesorios,6,1088.19,Bogotá,PayPal,6529.14
+411,2023-09-19,Computadora,Informática,8,1291.73,La Paz,PayPal,10333.84
+412,2023-09-14,Bocina,Telefonía,1,668.49,Lima,PayPal,668.49
+413,2022-12-09,Bocina,Electrónica,3,570.97,Buenos Aires,Transferencia Bancaria,1712.91
+414,2022-07-23,Bocina,Informática,8,936.74,Quito,PayPal,7493.92
+415,2023-12-04,Bocina,Informática,2,1002.38,Ciudad de México,Tarjeta de Crédito,2004.76
+416,2022-10-12,Tablet,Electrónica,10,1097.93,Santiago,Efectivo,10979.300000000001
+417,2023-07-13,Computadora,Accesorios,6,693.58,Caracas,Transferencia Bancaria,4161.4800000000005
+418,2023-09-09,Tablet,Telefonía,3,1164.93,Caracas,Tarjeta de Crédito,3494.79
+419,2022-10-31,Celular,Informática,10,548.19,Ciudad de México,Tarjeta de Crédito,5481.900000000001
+420,2023-11-25,Bocina,Accesorios,5,152.03,Lima,Efectivo,760.15
+421,2022-05-26,Computadora,Informática,8,1461.3,Ciudad de México,Efectivo,11690.4
+422,2023-11-14,Consola de Videojuegos,Informática,8,717.42,Lima,PayPal,5739.36
+423,2022-11-16,Televisión,Telefonía,6,380.92,Buenos Aires,Efectivo,2285.52
+424,2023-12-06,Televisión,Electrónica,7,1194.27,Quito,Transferencia Bancaria,8359.89
+425,2023-06-06,Computadora,Telefonía,2,1352.76,Santiago,PayPal,2705.52
+426,2023-01-20,Celular,Informática,1,1279.07,Santiago,Transferencia Bancaria,1279.07
+427,2022-09-25,Tablet,Informática,1,319.61,Caracas,PayPal,319.61
+428,2023-05-03,Consola de Videojuegos,Informática,4,191.78,Bogotá,Tarjeta de Crédito,767.12
+429,2022-02-11,Cámara,Electrónica,6,407.67,La Paz,Efectivo,2446.02
+430,2023-06-02,Tablet,Accesorios,7,1306.63,Lima,Transferencia Bancaria,9146.41
+431,2022-05-28,Tablet,Informática,4,1182.79,Quito,Transferencia Bancaria,4731.16
+432,2022-10-08,Cámara,Informática,6,1446.72,Buenos Aires,PayPal,8680.32
+433,2023-04-30,Reloj Inteligente,Informática,4,464.75,Quito,Transferencia Bancaria,1859.0
+434,2023-04-11,Celular,Accesorios,2,1472.82,La Paz,PayPal,2945.64
+435,2023-05-22,Consola de Videojuegos,Accesorios,9,1301.97,Caracas,Efectivo,11717.73
+436,2022-11-08,Celular,Telefonía,8,442.41,Lima,Efectivo,3539.28
+437,2022-10-11,Celular,Accesorios,6,1037.1,La Paz,Efectivo,6222.599999999999
+438,2023-10-10,Televisión,Accesorios,6,560.17,Lima,Tarjeta de Crédito,3361.0199999999995
+439,2023-03-08,Tablet,Telefonía,10,882.86,Bogotá,PayPal,8828.6
+440,2022-09-19,Computadora,Accesorios,9,1493.84,La Paz,PayPal,13444.56
+441,2022-06-11,Bocina,Informática,10,1153.2,Caracas,Efectivo,11532.0
+442,2022-05-08,Computadora,Informática,2,1136.18,Santiago,Tarjeta de Crédito,2272.36
+443,2023-04-12,Celular,Electrónica,3,891.27,Quito,Efectivo,2673.81
+444,2023-08-30,Reloj Inteligente,Telefonía,7,924.08,Quito,Transferencia Bancaria,6468.56
+445,2023-02-08,Tablet,Telefonía,5,641.72,Lima,PayPal,3208.6000000000004
+446,2023-07-23,Bocina,Telefonía,10,640.9,Quito,Transferencia Bancaria,6409.0
+447,2022-11-18,Computadora,Telefonía,3,1357.78,La Paz,Efectivo,4073.34
+448,2023-08-20,Bocina,Electrónica,6,251.56,Caracas,Efectivo,1509.3600000000001
+449,2023-11-28,Bocina,Telefonía,4,818.68,Ciudad de México,Efectivo,3274.72
+450,2022-10-05,Cámara,Accesorios,6,1255.96,La Paz,PayPal,7535.76
+451,2023-07-31,Tablet,Telefonía,2,1495.4,Ciudad de México,Transferencia Bancaria,2990.8
+452,2022-07-18,Celular,Accesorios,8,275.57,Ciudad de México,Transferencia Bancaria,2204.56
+453,2023-02-11,Consola de Videojuegos,Electrónica,2,280.3,Quito,Efectivo,560.6
+454,2023-12-23,Consola de Videojuegos,Electrónica,7,535.62,La Paz,PayPal,3749.34
+455,2023-10-17,Reloj Inteligente,Electrónica,7,292.42,Lima,Tarjeta de Crédito,2046.94
+456,2023-09-24,Tablet,Electrónica,10,1492.19,Santiago,Efectivo,14921.900000000001
+457,2022-12-20,Televisión,Informática,8,877.24,Santiago,Efectivo,7017.92
+458,2022-07-06,Bocina,Telefonía,3,61.8,Caracas,Efectivo,185.39999999999998
+459,2023-05-26,Televisión,Accesorios,9,1099.14,Quito,Efectivo,9892.26
+460,2023-07-05,Cámara,Telefonía,3,488.8,Ciudad de México,Transferencia Bancaria,1466.4
+461,2023-10-10,Bocina,Electrónica,9,1209.02,La Paz,PayPal,10881.18
+462,2023-04-06,Cámara,Telefonía,6,523.19,Quito,Efectivo,3139.1400000000003
+463,2022-06-15,Cámara,Electrónica,10,966.96,La Paz,PayPal,9669.6
+464,2023-02-03,Consola de Videojuegos,Informática,7,78.82,Santiago,Tarjeta de Crédito,551.74
+465,2023-12-18,Consola de Videojuegos,Electrónica,8,252.94,Buenos Aires,Transferencia Bancaria,2023.52
+466,2022-03-29,Consola de Videojuegos,Electrónica,4,676.14,Bogotá,Efectivo,2704.56
+467,2022-01-08,Reloj Inteligente,Accesorios,10,701.17,Caracas,PayPal,7011.7
+468,2023-04-05,Cámara,Informática,6,1491.72,Bogotá,Efectivo,8950.32
+469,2023-04-05,Bocina,Accesorios,9,443.93,La Paz,Transferencia Bancaria,3995.37
+470,2023-11-04,Televisión,Electrónica,3,376.93,Santiago,PayPal,1130.79
+471,2022-09-15,Tablet,Telefonía,10,381.64,Caracas,Efectivo,3816.3999999999996
+472,2022-11-30,Bocina,Electrónica,10,262.14,Santiago,PayPal,2621.3999999999996
+473,2022-05-31,Reloj Inteligente,Accesorios,5,231.3,Bogotá,Efectivo,1156.5
+474,2022-11-14,Celular,Accesorios,9,347.86,Bogotá,Efectivo,3130.7400000000002
+475,2022-07-11,Celular,Electrónica,1,1005.0,Lima,PayPal,1005.0
+476,2023-01-21,Bocina,Telefonía,8,751.35,Bogotá,Transferencia Bancaria,6010.8
+477,2023-10-24,Bocina,Telefonía,8,862.94,Lima,PayPal,6903.52
+478,2023-12-02,Tablet,Electrónica,1,1215.1,Santiago,Efectivo,1215.1
+479,2023-10-29,Cámara,Electrónica,10,936.3,Quito,Transferencia Bancaria,9363.0
+480,2022-05-23,Reloj Inteligente,Electrónica,9,687.73,La Paz,Tarjeta de Crédito,6189.57
+481,2023-08-08,Cámara,Telefonía,5,556.27,La Paz,Tarjeta de Crédito,2781.35
+482,2022-12-23,Bocina,Accesorios,8,1381.9,Buenos Aires,Tarjeta de Crédito,11055.2
+483,2023-12-06,Tablet,Electrónica,8,477.85,Lima,PayPal,3822.8
+484,2023-10-15,Cámara,Accesorios,2,361.81,Bogotá,Transferencia Bancaria,723.62
+485,2023-03-22,Televisión,Electrónica,8,1327.05,Buenos Aires,Efectivo,10616.4
+486,2023-07-07,Televisión,Electrónica,1,1365.73,Quito,Transferencia Bancaria,1365.73
+487,2023-12-29,Reloj Inteligente,Accesorios,8,867.08,Caracas,PayPal,6936.64
+488,2022-12-20,Televisión,Telefonía,6,1105.7,La Paz,Tarjeta de Crédito,6634.200000000001
+489,2023-09-16,Consola de Videojuegos,Telefonía,2,371.95,Bogotá,Tarjeta de Crédito,743.9
+490,2022-12-01,Reloj Inteligente,Telefonía,9,367.8,Ciudad de México,Efectivo,3310.2000000000003
+491,2023-07-31,Celular,Telefonía,10,303.97,Lima,Transferencia Bancaria,3039.7000000000003
+492,2022-10-22,Televisión,Accesorios,8,1304.79,Ciudad de México,PayPal,10438.32
+493,2022-02-12,Celular,Electrónica,10,672.26,Caracas,PayPal,6722.6
+494,2022-12-17,Televisión,Accesorios,4,1458.43,Buenos Aires,PayPal,5833.72
+495,2022-07-10,Televisión,Accesorios,8,123.03,Santiago,PayPal,984.24
+496,2023-02-19,Tablet,Informática,1,956.02,Ciudad de México,Efectivo,956.02
+497,2022-10-26,Computadora,Telefonía,6,910.93,Ciudad de México,PayPal,5465.58
+498,2023-03-20,Bocina,Informática,9,808.7,Bogotá,Transferencia Bancaria,7278.3
+499,2023-06-11,Reloj Inteligente,Informática,3,205.7,Lima,PayPal,617.0999999999999
+500,2022-11-22,Consola de Videojuegos,Telefonía,3,112.37,La Paz,PayPal,337.11
+501,2023-12-07,Tablet,Electrónica,3,569.34,La Paz,Efectivo,1708.02
+502,2023-03-11,Bocina,Electrónica,9,260.0,Buenos Aires,Transferencia Bancaria,2340.0
+503,2022-01-08,Televisión,Telefonía,7,1401.34,Quito,Efectivo,9809.38
+504,2022-03-09,Reloj Inteligente,Informática,10,686.88,Quito,Transferencia Bancaria,6868.8
+505,2022-03-16,Consola de Videojuegos,Telefonía,8,147.24,Bogotá,Efectivo,1177.92
+506,2022-01-17,Computadora,Electrónica,3,1323.3,Lima,Transferencia Bancaria,3969.8999999999996
+507,2022-08-08,Computadora,Telefonía,6,886.45,Buenos Aires,Transferencia Bancaria,5318.700000000001
+508,2023-02-25,Celular,Electrónica,9,1296.02,Santiago,Transferencia Bancaria,11664.18
+509,2023-02-03,Bocina,Telefonía,6,842.75,La Paz,Transferencia Bancaria,5056.5
+510,2022-02-06,Computadora,Electrónica,7,1238.6,La Paz,PayPal,8670.199999999999
+511,2023-06-28,Consola de Videojuegos,Informática,4,1034.38,Caracas,PayPal,4137.52
+512,2022-11-07,Cámara,Accesorios,7,1232.82,Caracas,Transferencia Bancaria,8629.74
+513,2022-04-04,Celular,Electrónica,6,1077.58,Ciudad de México,Transferencia Bancaria,6465.48
+514,2023-02-25,Bocina,Electrónica,3,332.31,Quito,Transferencia Bancaria,996.9300000000001
+515,2022-10-22,Computadora,Informática,8,1251.74,Lima,PayPal,10013.92
+516,2023-08-06,Televisión,Accesorios,3,1383.26,Santiago,Transferencia Bancaria,4149.78
+517,2022-02-15,Tablet,Informática,4,1073.9,Buenos Aires,Tarjeta de Crédito,4295.6
+518,2022-10-24,Computadora,Accesorios,5,58.03,La Paz,Efectivo,290.15
+519,2022-01-17,Celular,Accesorios,4,1442.72,Santiago,Tarjeta de Crédito,5770.88
+520,2022-03-08,Celular,Accesorios,4,230.36,Buenos Aires,Transferencia Bancaria,921.44
+521,2023-07-13,Cámara,Accesorios,2,571.19,Bogotá,PayPal,1142.38
+522,2023-05-19,Computadora,Accesorios,6,1189.04,Quito,Transferencia Bancaria,7134.24
+523,2022-08-19,Computadora,Electrónica,6,1048.82,Ciudad de México,Efectivo,6292.92
+524,2022-10-06,Consola de Videojuegos,Accesorios,2,167.07,La Paz,Transferencia Bancaria,334.14
+525,2023-10-22,Televisión,Informática,1,751.52,Santiago,Transferencia Bancaria,751.52
+526,2023-08-30,Cámara,Accesorios,3,1057.08,Quito,Tarjeta de Crédito,3171.24
+527,2023-06-03,Consola de Videojuegos,Informática,4,956.51,Santiago,Tarjeta de Crédito,3826.04
+528,2023-03-26,Tablet,Accesorios,3,1139.0,Santiago,Tarjeta de Crédito,3417.0
+529,2023-11-15,Reloj Inteligente,Electrónica,2,1240.38,La Paz,Transferencia Bancaria,2480.76
+530,2022-01-25,Reloj Inteligente,Electrónica,3,1386.02,Quito,PayPal,4158.0599999999995
+531,2022-05-17,Consola de Videojuegos,Electrónica,10,1359.54,Caracas,Efectivo,13595.4
+532,2023-02-01,Cámara,Informática,9,707.04,La Paz,Transferencia Bancaria,6363.36
+533,2022-02-27,Reloj Inteligente,Electrónica,3,180.73,Lima,PayPal,542.1899999999999
+534,2023-07-04,Televisión,Telefonía,2,486.3,Bogotá,Efectivo,972.6
+535,2022-04-03,Televisión,Informática,5,1137.29,Buenos Aires,Tarjeta de Crédito,5686.45
+536,2022-10-20,Computadora,Electrónica,3,681.88,Bogotá,Transferencia Bancaria,2045.6399999999999
+537,2023-07-19,Computadora,Telefonía,10,1400.02,La Paz,Transferencia Bancaria,14000.2
+538,2022-12-12,Tablet,Accesorios,4,153.88,Lima,Transferencia Bancaria,615.52
+539,2022-07-14,Celular,Telefonía,8,705.82,Quito,Efectivo,5646.56
+540,2022-09-01,Reloj Inteligente,Telefonía,8,1234.07,Buenos Aires,Efectivo,9872.56
+541,2022-01-04,Celular,Informática,8,963.26,Santiago,Transferencia Bancaria,7706.08
+542,2023-12-30,Computadora,Accesorios,1,980.29,La Paz,Transferencia Bancaria,980.29
+543,2023-07-18,Celular,Accesorios,8,396.53,La Paz,Transferencia Bancaria,3172.24
+544,2022-02-12,Tablet,Accesorios,5,1208.88,Buenos Aires,PayPal,6044.400000000001
+545,2022-07-26,Computadora,Accesorios,1,911.21,Bogotá,PayPal,911.21
+546,2023-03-05,Tablet,Accesorios,6,1332.85,Caracas,Efectivo,7997.099999999999
+547,2023-01-03,Cámara,Telefonía,3,475.8,Bogotá,Efectivo,1427.4
+548,2022-02-02,Reloj Inteligente,Informática,4,396.54,Quito,PayPal,1586.16
+549,2022-06-25,Consola de Videojuegos,Accesorios,10,356.78,La Paz,Tarjeta de Crédito,3567.7999999999997
+550,2023-03-05,Tablet,Informática,1,761.49,Bogotá,PayPal,761.49
+551,2022-02-23,Celular,Accesorios,5,310.54,Ciudad de México,PayPal,1552.7
+552,2022-01-03,Bocina,Telefonía,5,1345.45,Buenos Aires,Transferencia Bancaria,6727.25
+553,2022-06-06,Televisión,Telefonía,2,812.87,La Paz,PayPal,1625.74
+554,2022-03-13,Reloj Inteligente,Electrónica,10,274.62,Bogotá,PayPal,2746.2
+555,2022-01-17,Celular,Informática,1,710.15,Caracas,Tarjeta de Crédito,710.15
+556,2022-07-22,Tablet,Accesorios,10,1060.39,Santiago,Tarjeta de Crédito,10603.900000000001
+557,2022-04-06,Computadora,Informática,3,1307.68,Lima,Tarjeta de Crédito,3923.04
+558,2023-04-28,Celular,Telefonía,7,442.11,Caracas,PayPal,3094.77
+559,2022-05-06,Cámara,Informática,8,639.93,Ciudad de México,Tarjeta de Crédito,5119.44
+560,2023-04-11,Cámara,Telefonía,7,579.92,Ciudad de México,Tarjeta de Crédito,4059.4399999999996
+561,2022-06-04,Consola de Videojuegos,Informática,2,640.89,Lima,Tarjeta de Crédito,1281.78
+562,2023-05-14,Celular,Informática,9,125.87,La Paz,PayPal,1132.83
+563,2022-04-28,Televisión,Electrónica,8,167.96,La Paz,Tarjeta de Crédito,1343.68
+564,2022-02-05,Tablet,Accesorios,7,308.32,Caracas,PayPal,2158.24
+565,2023-04-27,Consola de Videojuegos,Telefonía,9,902.19,Quito,PayPal,8119.710000000001
+566,2023-04-29,Reloj Inteligente,Electrónica,7,671.76,Bogotá,Tarjeta de Crédito,4702.32
+567,2023-03-15,Televisión,Informática,10,152.76,Ciudad de México,PayPal,1527.6
+568,2022-08-29,Bocina,Electrónica,2,890.0,Lima,Transferencia Bancaria,1780.0
+569,2023-01-14,Cámara,Electrónica,9,1342.49,Buenos Aires,Efectivo,12082.41
+570,2022-08-25,Celular,Electrónica,4,1040.3,Ciudad de México,Transferencia Bancaria,4161.2
+571,2022-04-14,Tablet,Accesorios,3,1073.91,Ciudad de México,Transferencia Bancaria,3221.7300000000005
+572,2022-07-18,Computadora,Informática,3,1316.31,Buenos Aires,Efectivo,3948.93
+573,2023-12-20,Bocina,Accesorios,7,1346.14,Ciudad de México,Transferencia Bancaria,9422.980000000001
+574,2023-08-15,Consola de Videojuegos,Accesorios,2,895.46,Bogotá,Tarjeta de Crédito,1790.92
+575,2023-04-18,Cámara,Electrónica,7,1177.64,La Paz,Efectivo,8243.480000000001
+576,2022-08-10,Cámara,Informática,5,896.3,Ciudad de México,Transferencia Bancaria,4481.5
+577,2022-09-12,Bocina,Accesorios,3,1222.79,Caracas,Transferencia Bancaria,3668.37
+578,2023-06-16,Tablet,Accesorios,2,1189.32,Quito,Transferencia Bancaria,2378.64
+579,2023-06-17,Celular,Accesorios,9,1046.28,Ciudad de México,Tarjeta de Crédito,9416.52
+580,2023-12-22,Televisión,Informática,10,1337.31,La Paz,Efectivo,13373.099999999999
+581,2022-08-11,Tablet,Telefonía,2,1225.03,Buenos Aires,Efectivo,2450.06
+582,2022-11-19,Bocina,Electrónica,9,455.92,Lima,Tarjeta de Crédito,4103.28
+583,2023-08-02,Bocina,Electrónica,8,658.03,Santiago,Tarjeta de Crédito,5264.24
+584,2023-10-13,Reloj Inteligente,Accesorios,1,1254.57,Buenos Aires,Transferencia Bancaria,1254.57
+585,2022-11-26,Bocina,Informática,3,597.06,Bogotá,PayPal,1791.1799999999998
+586,2023-06-06,Televisión,Accesorios,9,1359.44,Santiago,Transferencia Bancaria,12234.960000000001
+587,2023-08-28,Computadora,Accesorios,2,664.53,Santiago,Tarjeta de Crédito,1329.06
+588,2022-05-15,Reloj Inteligente,Electrónica,10,476.6,Lima,Tarjeta de Crédito,4766.0
+589,2022-03-14,Consola de Videojuegos,Accesorios,8,1425.56,Buenos Aires,Efectivo,11404.48
+590,2022-07-29,Computadora,Informática,9,901.84,Quito,Tarjeta de Crédito,8116.56
+591,2022-02-08,Cámara,Accesorios,8,1490.63,Santiago,Transferencia Bancaria,11925.04
+592,2022-10-28,Reloj Inteligente,Informática,5,78.17,La Paz,PayPal,390.85
+593,2022-07-12,Cámara,Accesorios,5,1292.98,Lima,PayPal,6464.9
+594,2023-11-20,Bocina,Telefonía,5,286.79,Quito,Efectivo,1433.95
+595,2023-10-20,Bocina,Electrónica,6,608.58,Caracas,PayPal,3651.4800000000005
+596,2022-08-14,Consola de Videojuegos,Accesorios,1,1130.66,La Paz,Efectivo,1130.66
+597,2022-09-25,Cámara,Accesorios,4,565.21,Santiago,Tarjeta de Crédito,2260.84
+598,2023-07-02,Tablet,Informática,3,510.34,Ciudad de México,Tarjeta de Crédito,1531.02
+599,2022-02-10,Televisión,Informática,6,133.59,Buenos Aires,PayPal,801.54
+600,2023-11-17,Tablet,Accesorios,6,1085.51,Santiago,Tarjeta de Crédito,6513.0599999999995
+601,2023-03-08,Tablet,Informática,3,1271.26,Quito,PayPal,3813.7799999999997
+602,2023-01-10,Bocina,Telefonía,5,1054.05,Ciudad de México,Tarjeta de Crédito,5270.25
+603,2022-02-07,Reloj Inteligente,Informática,9,926.45,Quito,Efectivo,8338.050000000001
+604,2023-12-17,Tablet,Informática,2,277.6,Caracas,Tarjeta de Crédito,555.2
+605,2022-02-15,Televisión,Electrónica,9,84.99,Buenos Aires,PayPal,764.91
+606,2022-03-11,Reloj Inteligente,Electrónica,3,1346.45,Buenos Aires,Transferencia Bancaria,4039.3500000000004
+607,2023-07-13,Consola de Videojuegos,Informática,10,1163.62,Buenos Aires,Efectivo,11636.199999999999
+608,2023-12-24,Computadora,Electrónica,10,1032.03,Buenos Aires,Transferencia Bancaria,10320.3
+609,2022-10-18,Consola de Videojuegos,Electrónica,1,214.22,Bogotá,Tarjeta de Crédito,214.22
+610,2023-03-15,Televisión,Informática,7,782.04,Lima,Transferencia Bancaria,5474.28
+611,2022-06-14,Cámara,Informática,3,946.44,Caracas,PayPal,2839.32
+612,2022-10-17,Televisión,Accesorios,9,274.92,Caracas,PayPal,2474.28
+613,2023-12-08,Cámara,Informática,9,1267.57,Quito,Efectivo,11408.13
+614,2023-11-05,Consola de Videojuegos,Accesorios,10,515.26,Lima,Efectivo,5152.6
+615,2023-02-12,Cámara,Electrónica,3,664.29,Lima,Efectivo,1992.87
+616,2023-09-30,Reloj Inteligente,Telefonía,8,215.82,Bogotá,Tarjeta de Crédito,1726.56
+617,2022-08-28,Tablet,Accesorios,3,576.09,Bogotá,Transferencia Bancaria,1728.27
+618,2022-01-15,Reloj Inteligente,Telefonía,3,694.22,Lima,Transferencia Bancaria,2082.66
+619,2022-04-21,Tablet,Informática,4,315.62,Ciudad de México,Tarjeta de Crédito,1262.48
+620,2022-08-07,Celular,Electrónica,9,897.15,Buenos Aires,Transferencia Bancaria,8074.349999999999
+621,2023-10-10,Consola de Videojuegos,Informática,1,1121.7,Ciudad de México,Transferencia Bancaria,1121.7
+622,2022-04-03,Televisión,Electrónica,8,1123.42,Santiago,Efectivo,8987.36
+623,2022-01-21,Tablet,Electrónica,1,335.72,La Paz,Transferencia Bancaria,335.72
+624,2023-06-20,Televisión,Electrónica,9,333.52,Caracas,Efectivo,3001.68
+625,2023-07-12,Computadora,Electrónica,3,742.07,Lima,Tarjeta de Crédito,2226.21
+626,2023-11-19,Celular,Telefonía,4,272.12,Lima,Efectivo,1088.48
+627,2022-07-12,Bocina,Electrónica,7,511.11,Santiago,PayPal,3577.77
+628,2022-03-05,Bocina,Accesorios,6,1306.13,Santiago,PayPal,7836.780000000001
+629,2023-06-02,Celular,Accesorios,2,1363.16,La Paz,Tarjeta de Crédito,2726.32
+630,2023-01-27,Tablet,Telefonía,1,1359.46,Quito,PayPal,1359.46
+631,2022-07-10,Reloj Inteligente,Accesorios,4,711.38,Buenos Aires,Transferencia Bancaria,2845.52
+632,2023-06-09,Computadora,Electrónica,1,1440.85,Santiago,Tarjeta de Crédito,1440.85
+633,2023-11-04,Computadora,Telefonía,1,1340.35,Quito,Efectivo,1340.35
+634,2022-05-31,Celular,Electrónica,3,1334.19,Bogotá,PayPal,4002.57
+635,2023-02-14,Computadora,Accesorios,1,498.94,Buenos Aires,PayPal,498.94
+636,2023-12-24,Tablet,Accesorios,10,516.94,Buenos Aires,PayPal,5169.400000000001
+637,2023-11-19,Consola de Videojuegos,Telefonía,9,1033.87,La Paz,Transferencia Bancaria,9304.829999999998
+638,2023-09-29,Computadora,Informática,10,279.1,La Paz,Tarjeta de Crédito,2791.0
+639,2022-01-11,Computadora,Accesorios,2,1229.48,Caracas,Efectivo,2458.96
+640,2023-07-28,Reloj Inteligente,Informática,6,1066.42,Caracas,Tarjeta de Crédito,6398.52
+641,2022-09-17,Bocina,Accesorios,10,1237.74,Bogotá,Efectivo,12377.4
+642,2022-05-09,Tablet,Electrónica,9,324.52,Buenos Aires,Transferencia Bancaria,2920.68
+643,2023-04-05,Bocina,Accesorios,7,1270.02,La Paz,PayPal,8890.14
+644,2023-09-19,Tablet,Accesorios,7,1461.89,Santiago,Efectivo,10233.230000000001
+645,2023-02-23,Bocina,Informática,3,1351.18,La Paz,Tarjeta de Crédito,4053.54
+646,2023-08-30,Tablet,Accesorios,10,1315.23,La Paz,Tarjeta de Crédito,13152.3
+647,2023-04-29,Reloj Inteligente,Electrónica,7,257.97,Lima,Transferencia Bancaria,1805.7900000000002
+648,2023-09-28,Tablet,Electrónica,1,88.34,Ciudad de México,Tarjeta de Crédito,88.34
+649,2023-03-20,Computadora,Electrónica,4,902.2,Caracas,Efectivo,3608.8
+650,2023-04-07,Bocina,Electrónica,6,915.41,Quito,Tarjeta de Crédito,5492.46
+651,2023-05-26,Cámara,Telefonía,2,844.28,Quito,Transferencia Bancaria,1688.56
+652,2022-09-12,Computadora,Informática,5,334.41,Buenos Aires,Tarjeta de Crédito,1672.0500000000002
+653,2022-06-14,Bocina,Telefonía,4,1248.17,Quito,PayPal,4992.68
+654,2022-10-13,Celular,Accesorios,1,1112.92,Bogotá,Transferencia Bancaria,1112.92
+655,2023-08-25,Cámara,Accesorios,4,612.3,Lima,PayPal,2449.2
+656,2023-05-30,Televisión,Telefonía,5,945.98,Quito,Tarjeta de Crédito,4729.9
+657,2023-12-25,Bocina,Accesorios,8,295.96,Quito,Efectivo,2367.68
+658,2022-08-23,Computadora,Electrónica,5,669.62,Bogotá,Transferencia Bancaria,3348.1
+659,2022-05-19,Computadora,Electrónica,1,1316.47,Buenos Aires,PayPal,1316.47
+660,2023-09-25,Bocina,Informática,1,1255.98,Buenos Aires,Efectivo,1255.98
+661,2023-12-22,Consola de Videojuegos,Telefonía,4,413.44,La Paz,Efectivo,1653.76
+662,2022-09-04,Consola de Videojuegos,Informática,4,1274.05,Santiago,PayPal,5096.2
+663,2023-01-19,Consola de Videojuegos,Electrónica,1,680.6,Quito,Tarjeta de Crédito,680.6
+664,2023-03-15,Cámara,Telefonía,3,1027.78,Quito,Transferencia Bancaria,3083.34
+665,2023-02-16,Celular,Electrónica,4,675.12,La Paz,Efectivo,2700.48
+666,2023-04-29,Televisión,Informática,6,1160.07,Buenos Aires,Efectivo,6960.42
+667,2023-10-01,Reloj Inteligente,Electrónica,1,544.79,Caracas,PayPal,544.79
+668,2023-07-07,Bocina,Accesorios,6,1003.41,Caracas,PayPal,6020.46
+669,2023-07-18,Televisión,Accesorios,8,1216.04,Ciudad de México,PayPal,9728.32
+670,2023-07-26,Televisión,Telefonía,4,889.14,Ciudad de México,Tarjeta de Crédito,3556.56
+671,2023-10-22,Tablet,Informática,6,391.96,La Paz,Tarjeta de Crédito,2351.7599999999998
+672,2022-11-30,Consola de Videojuegos,Electrónica,4,867.98,Caracas,PayPal,3471.92
+673,2022-04-13,Bocina,Electrónica,2,652.1,Ciudad de México,Efectivo,1304.2
+674,2022-07-12,Computadora,Informática,4,277.57,La Paz,PayPal,1110.28
+675,2022-07-11,Computadora,Electrónica,10,1243.81,La Paz,Tarjeta de Crédito,12438.099999999999
+676,2023-08-04,Cámara,Telefonía,4,961.74,Bogotá,Transferencia Bancaria,3846.96
+677,2023-09-12,Reloj Inteligente,Accesorios,7,770.08,Lima,Transferencia Bancaria,5390.56
+678,2023-12-05,Televisión,Telefonía,8,220.78,Lima,Tarjeta de Crédito,1766.24
+679,2022-05-04,Televisión,Accesorios,9,1063.69,Ciudad de México,Transferencia Bancaria,9573.210000000001
+680,2022-12-11,Tablet,Electrónica,1,856.08,Santiago,Efectivo,856.08
+681,2023-01-16,Cámara,Informática,9,1341.36,Bogotá,Efectivo,12072.24
+682,2022-11-24,Consola de Videojuegos,Informática,10,940.5,Lima,PayPal,9405.0
+683,2023-03-14,Bocina,Accesorios,7,638.58,La Paz,PayPal,4470.06
+684,2022-11-13,Consola de Videojuegos,Accesorios,9,1469.22,Lima,Transferencia Bancaria,13222.98
+685,2023-01-11,Computadora,Telefonía,1,1309.81,Bogotá,Tarjeta de Crédito,1309.81
+686,2023-05-03,Tablet,Accesorios,1,356.07,Quito,Efectivo,356.07
+687,2023-04-27,Celular,Informática,1,298.05,Ciudad de México,Transferencia Bancaria,298.05
+688,2023-09-26,Cámara,Electrónica,3,144.26,Bogotá,Tarjeta de Crédito,432.78
+689,2022-03-28,Reloj Inteligente,Accesorios,2,1178.69,La Paz,PayPal,2357.38
+690,2022-08-09,Consola de Videojuegos,Telefonía,9,77.87,Quito,PayPal,700.83
+691,2023-05-12,Cámara,Accesorios,7,1055.56,Lima,PayPal,7388.92
+692,2022-03-03,Consola de Videojuegos,Informática,6,1217.97,Caracas,PayPal,7307.82
+693,2022-05-15,Reloj Inteligente,Informática,7,1323.9,La Paz,Efectivo,9267.300000000001
+694,2022-01-17,Bocina,Informática,7,282.5,Lima,Tarjeta de Crédito,1977.5
+695,2023-03-08,Reloj Inteligente,Telefonía,1,1361.67,Lima,PayPal,1361.67
+696,2023-06-07,Consola de Videojuegos,Electrónica,10,984.0,Quito,Tarjeta de Crédito,9840.0
+697,2022-04-28,Computadora,Informática,2,1466.3,Buenos Aires,Tarjeta de Crédito,2932.6
+698,2022-06-01,Reloj Inteligente,Informática,3,1053.32,Buenos Aires,Tarjeta de Crédito,3159.96
+699,2022-02-11,Reloj Inteligente,Electrónica,3,683.82,Lima,Efectivo,2051.46
+700,2023-05-13,Consola de Videojuegos,Electrónica,8,71.79,Buenos Aires,PayPal,574.32
+701,2022-08-31,Reloj Inteligente,Accesorios,9,138.37,Santiago,PayPal,1245.33
+702,2022-08-08,Cámara,Accesorios,2,303.88,Caracas,PayPal,607.76
+703,2022-05-01,Reloj Inteligente,Telefonía,7,515.85,Santiago,Tarjeta de Crédito,3610.9500000000003
+704,2022-09-04,Consola de Videojuegos,Informática,3,280.7,Caracas,Efectivo,842.0999999999999
+705,2022-06-15,Cámara,Accesorios,1,825.84,Santiago,Tarjeta de Crédito,825.84
+706,2023-11-12,Computadora,Accesorios,4,213.15,Santiago,Transferencia Bancaria,852.6
+707,2022-03-16,Cámara,Accesorios,4,880.79,La Paz,PayPal,3523.16
+708,2022-02-08,Tablet,Telefonía,7,71.42,Lima,Transferencia Bancaria,499.94
+709,2022-09-28,Tablet,Accesorios,7,865.45,Buenos Aires,Efectivo,6058.150000000001
+710,2023-08-02,Reloj Inteligente,Accesorios,4,131.14,Quito,PayPal,524.56
+711,2022-01-25,Consola de Videojuegos,Telefonía,3,1186.95,Ciudad de México,Tarjeta de Crédito,3560.8500000000004
+712,2022-09-14,Cámara,Accesorios,2,709.02,Quito,Efectivo,1418.04
+713,2023-02-06,Bocina,Informática,10,1472.39,Bogotá,PayPal,14723.900000000001
+714,2022-09-13,Computadora,Accesorios,3,993.36,La Paz,Tarjeta de Crédito,2980.08
+715,2022-07-27,Consola de Videojuegos,Informática,9,1068.15,Caracas,Tarjeta de Crédito,9613.35
+716,2023-01-28,Celular,Telefonía,7,1167.42,Buenos Aires,Transferencia Bancaria,8171.9400000000005
+717,2022-01-25,Tablet,Electrónica,8,130.47,Bogotá,PayPal,1043.76
+718,2022-09-18,Tablet,Informática,2,854.29,Quito,Transferencia Bancaria,1708.58
+719,2023-02-11,Celular,Accesorios,7,1459.09,Quito,PayPal,10213.63
+720,2023-11-20,Reloj Inteligente,Electrónica,10,1075.76,Lima,Efectivo,10757.6
+721,2022-01-14,Cámara,Accesorios,6,1298.32,La Paz,Efectivo,7789.92
+722,2023-08-30,Consola de Videojuegos,Telefonía,8,1270.79,Santiago,Tarjeta de Crédito,10166.32
+723,2023-07-27,Consola de Videojuegos,Accesorios,6,1147.83,Quito,Efectivo,6886.98
+724,2023-10-01,Bocina,Informática,4,1265.79,La Paz,Transferencia Bancaria,5063.16
+725,2022-05-21,Cámara,Accesorios,10,180.85,Santiago,Tarjeta de Crédito,1808.5
+726,2023-06-15,Celular,Informática,9,966.81,Santiago,PayPal,8701.289999999999
+727,2022-01-18,Computadora,Electrónica,9,708.8,Lima,Tarjeta de Crédito,6379.2
+728,2022-05-02,Computadora,Informática,1,439.62,Caracas,Efectivo,439.62
+729,2023-06-11,Reloj Inteligente,Accesorios,4,799.9,Caracas,Tarjeta de Crédito,3199.6
+730,2022-12-05,Bocina,Telefonía,8,1406.01,Caracas,Tarjeta de Crédito,11248.08
+731,2023-03-20,Reloj Inteligente,Accesorios,2,354.65,Buenos Aires,Tarjeta de Crédito,709.3
+732,2022-11-04,Tablet,Accesorios,6,78.97,Santiago,PayPal,473.82
+733,2022-01-16,Cámara,Informática,8,258.06,Lima,Efectivo,2064.48
+734,2022-12-30,Celular,Telefonía,5,1203.15,Buenos Aires,Tarjeta de Crédito,6015.75
+735,2022-10-21,Televisión,Accesorios,8,1375.7,Santiago,PayPal,11005.6
+736,2023-10-06,Consola de Videojuegos,Accesorios,9,710.05,Santiago,Efectivo,6390.45
+737,2023-08-12,Televisión,Informática,1,394.72,Lima,Tarjeta de Crédito,394.72
+738,2023-11-12,Cámara,Electrónica,6,560.02,Bogotá,Transferencia Bancaria,3360.12
+739,2022-12-07,Televisión,Electrónica,2,264.74,Buenos Aires,PayPal,529.48
+740,2023-05-17,Televisión,Electrónica,8,891.34,Santiago,Efectivo,7130.72
+741,2023-05-30,Cámara,Informática,7,428.8,Buenos Aires,Transferencia Bancaria,3001.6
+742,2023-05-04,Televisión,Accesorios,5,1063.54,Caracas,PayPal,5317.7
+743,2023-12-11,Tablet,Electrónica,9,352.9,Buenos Aires,Tarjeta de Crédito,3176.1
+744,2023-07-26,Cámara,Accesorios,4,932.57,La Paz,Efectivo,3730.28
+745,2022-09-10,Televisión,Accesorios,3,846.74,Buenos Aires,Transferencia Bancaria,2540.2200000000003
+746,2022-05-03,Bocina,Informática,10,409.75,Santiago,Tarjeta de Crédito,4097.5
+747,2023-09-17,Consola de Videojuegos,Accesorios,1,1184.25,Quito,Efectivo,1184.25
+748,2022-11-13,Computadora,Electrónica,3,525.22,Quito,Transferencia Bancaria,1575.66
+749,2023-01-14,Celular,Telefonía,8,946.88,Bogotá,PayPal,7575.04
+750,2022-09-07,Tablet,Informática,10,150.79,Quito,Tarjeta de Crédito,1507.8999999999999
+751,2023-02-14,Celular,Telefonía,2,1214.35,Ciudad de México,Tarjeta de Crédito,2428.7
+752,2022-02-18,Cámara,Electrónica,9,638.77,Quito,PayPal,5748.93
+753,2023-09-18,Celular,Accesorios,9,1290.38,Caracas,Tarjeta de Crédito,11613.420000000002
+754,2023-04-06,Cámara,Telefonía,6,1408.0,Bogotá,Efectivo,8448.0
+755,2023-10-28,Tablet,Telefonía,4,816.58,Lima,Transferencia Bancaria,3266.32
+756,2022-01-03,Reloj Inteligente,Informática,3,945.82,La Paz,PayPal,2837.46
+757,2023-05-21,Computadora,Accesorios,7,679.94,Lima,Transferencia Bancaria,4759.58
+758,2023-05-24,Tablet,Accesorios,1,858.34,Bogotá,Transferencia Bancaria,858.34
+759,2023-03-22,Bocina,Telefonía,10,315.31,La Paz,Efectivo,3153.1
+760,2022-11-22,Tablet,Electrónica,10,365.04,Buenos Aires,Tarjeta de Crédito,3650.4
+761,2023-03-27,Televisión,Accesorios,4,197.21,Buenos Aires,Tarjeta de Crédito,788.84
+762,2023-01-04,Reloj Inteligente,Informática,3,1433.85,Caracas,Efectivo,4301.549999999999
+763,2023-02-04,Celular,Informática,5,962.73,Ciudad de México,Efectivo,4813.65
+764,2023-01-20,Consola de Videojuegos,Electrónica,9,730.43,Santiago,Efectivo,6573.87
+765,2022-09-02,Consola de Videojuegos,Accesorios,8,968.36,Ciudad de México,Efectivo,7746.88
+766,2022-09-19,Computadora,Accesorios,1,1241.03,Quito,Tarjeta de Crédito,1241.03
+767,2022-03-04,Televisión,Electrónica,5,386.46,Santiago,Efectivo,1932.3
+768,2022-12-06,Celular,Accesorios,2,221.86,La Paz,Tarjeta de Crédito,443.72
+769,2022-12-10,Tablet,Informática,8,761.93,Lima,PayPal,6095.44
+770,2022-01-09,Cámara,Accesorios,2,389.87,Quito,Transferencia Bancaria,779.74
+771,2023-08-11,Televisión,Informática,4,1154.36,Quito,Efectivo,4617.44
+772,2022-12-26,Consola de Videojuegos,Informática,6,577.53,La Paz,Transferencia Bancaria,3465.18
+773,2023-11-18,Bocina,Informática,5,976.55,Ciudad de México,Tarjeta de Crédito,4882.75
+774,2023-01-18,Cámara,Telefonía,9,1220.23,Bogotá,PayPal,10982.07
+775,2023-02-12,Celular,Electrónica,9,271.0,Caracas,Transferencia Bancaria,2439.0
+776,2023-05-18,Tablet,Telefonía,5,664.89,Ciudad de México,Efectivo,3324.45
+777,2022-06-14,Computadora,Telefonía,1,92.45,Buenos Aires,Efectivo,92.45
+778,2022-03-23,Bocina,Informática,5,1011.56,Quito,PayPal,5057.799999999999
+779,2023-10-15,Televisión,Telefonía,8,1384.85,Ciudad de México,Efectivo,11078.8
+780,2022-04-14,Televisión,Telefonía,2,662.47,Santiago,Transferencia Bancaria,1324.94
+781,2023-11-23,Celular,Telefonía,1,545.35,Santiago,Transferencia Bancaria,545.35
+782,2022-11-14,Computadora,Telefonía,4,1299.69,Caracas,Transferencia Bancaria,5198.76
+783,2023-11-21,Cámara,Telefonía,10,1342.22,Lima,Efectivo,13422.2
+784,2022-10-03,Cámara,Electrónica,10,61.89,Santiago,Tarjeta de Crédito,618.9
+785,2022-06-03,Consola de Videojuegos,Informática,10,71.98,La Paz,Transferencia Bancaria,719.8000000000001
+786,2022-08-31,Computadora,Informática,8,677.54,Buenos Aires,Tarjeta de Crédito,5420.32
+787,2022-07-28,Consola de Videojuegos,Telefonía,7,493.93,Buenos Aires,PayPal,3457.51
+788,2022-03-02,Cámara,Informática,7,640.93,Lima,Tarjeta de Crédito,4486.509999999999
+789,2023-03-16,Televisión,Telefonía,10,449.79,Santiago,Transferencia Bancaria,4497.900000000001
+790,2022-11-18,Reloj Inteligente,Informática,10,437.69,La Paz,PayPal,4376.9
+791,2023-10-08,Bocina,Telefonía,7,1254.32,Caracas,Efectivo,8780.24
+792,2023-01-11,Tablet,Accesorios,6,1319.13,Quito,Efectivo,7914.780000000001
+793,2022-12-27,Bocina,Informática,2,107.22,Ciudad de México,Efectivo,214.44
+794,2022-07-02,Tablet,Informática,10,287.33,Ciudad de México,Transferencia Bancaria,2873.2999999999997
+795,2023-07-23,Televisión,Accesorios,9,430.53,Quito,Efectivo,3874.7699999999995
+796,2023-11-04,Reloj Inteligente,Telefonía,10,1495.17,Buenos Aires,Tarjeta de Crédito,14951.7
+797,2023-08-04,Cámara,Electrónica,3,898.53,Caracas,Tarjeta de Crédito,2695.59
+798,2022-10-03,Celular,Accesorios,10,1428.8,Quito,Tarjeta de Crédito,14288.0
+799,2023-03-12,Reloj Inteligente,Telefonía,1,688.56,Quito,PayPal,688.56
+800,2023-06-07,Consola de Videojuegos,Telefonía,8,1492.38,Ciudad de México,Efectivo,11939.04
+801,2023-04-06,Celular,Electrónica,10,1407.27,Caracas,Tarjeta de Crédito,14072.7
+802,2022-08-03,Celular,Informática,6,474.56,Caracas,PayPal,2847.36
+803,2023-08-30,Tablet,Telefonía,4,752.38,Lima,PayPal,3009.52
+804,2022-08-28,Reloj Inteligente,Telefonía,10,1036.39,Lima,Tarjeta de Crédito,10363.900000000001
+805,2023-08-26,Tablet,Informática,4,757.7,Santiago,Transferencia Bancaria,3030.8
+806,2023-06-08,Reloj Inteligente,Informática,3,493.08,La Paz,PayPal,1479.24
+807,2022-06-02,Celular,Electrónica,7,853.14,Caracas,PayPal,5971.98
+808,2023-11-29,Cámara,Telefonía,7,1484.2,Quito,PayPal,10389.4
+809,2023-02-01,Computadora,Accesorios,5,441.28,Caracas,Transferencia Bancaria,2206.3999999999996
+810,2022-08-22,Tablet,Informática,2,1245.76,Santiago,Efectivo,2491.52
+811,2022-08-24,Televisión,Informática,4,1492.34,Quito,PayPal,5969.36
+812,2023-07-05,Celular,Electrónica,2,970.05,Quito,Efectivo,1940.1
+813,2022-06-04,Computadora,Accesorios,7,697.26,Caracas,Tarjeta de Crédito,4880.82
+814,2023-11-07,Reloj Inteligente,Electrónica,9,1417.13,Lima,Tarjeta de Crédito,12754.170000000002
+815,2022-06-25,Computadora,Accesorios,9,241.25,Ciudad de México,Tarjeta de Crédito,2171.25
+816,2022-06-13,Computadora,Electrónica,8,231.43,Caracas,Efectivo,1851.44
+817,2023-05-10,Computadora,Informática,2,1267.14,Quito,Tarjeta de Crédito,2534.28
+818,2023-07-21,Televisión,Electrónica,4,649.06,La Paz,PayPal,2596.24
+819,2022-04-18,Reloj Inteligente,Electrónica,4,136.15,Caracas,Transferencia Bancaria,544.6
+820,2022-07-03,Cámara,Informática,10,556.37,Ciudad de México,Tarjeta de Crédito,5563.7
+821,2023-01-13,Consola de Videojuegos,Accesorios,7,777.8,Caracas,PayPal,5444.599999999999
+822,2023-05-06,Cámara,Accesorios,3,1370.07,Bogotá,Transferencia Bancaria,4110.21
+823,2023-04-22,Cámara,Telefonía,3,795.21,Quito,Transferencia Bancaria,2385.63
+824,2023-06-21,Televisión,Telefonía,6,1328.57,Santiago,Transferencia Bancaria,7971.42
+825,2022-08-10,Computadora,Telefonía,9,1453.03,La Paz,PayPal,13077.27
+826,2023-10-19,Tablet,Informática,9,1139.03,Buenos Aires,Transferencia Bancaria,10251.27
+827,2023-02-06,Reloj Inteligente,Telefonía,1,489.59,Ciudad de México,PayPal,489.59
+828,2022-02-16,Consola de Videojuegos,Informática,8,743.12,Caracas,Efectivo,5944.96
+829,2023-08-31,Bocina,Telefonía,3,912.16,Quito,Transferencia Bancaria,2736.48
+830,2023-05-11,Computadora,Informática,1,887.05,Buenos Aires,PayPal,887.05
+831,2022-01-17,Bocina,Electrónica,7,676.47,Quito,PayPal,4735.29
+832,2023-02-21,Computadora,Informática,1,690.04,Buenos Aires,Tarjeta de Crédito,690.04
+833,2022-08-28,Reloj Inteligente,Electrónica,9,1432.34,Buenos Aires,Transferencia Bancaria,12891.06
+834,2022-05-12,Televisión,Telefonía,10,1413.15,Ciudad de México,Transferencia Bancaria,14131.5
+835,2023-03-02,Celular,Informática,2,611.08,Bogotá,Tarjeta de Crédito,1222.16
+836,2022-02-07,Computadora,Accesorios,4,738.81,Santiago,Efectivo,2955.24
+837,2022-03-20,Televisión,Accesorios,9,1488.99,Buenos Aires,PayPal,13400.91
+838,2022-05-30,Computadora,Accesorios,8,1297.65,Caracas,Efectivo,10381.2
+839,2023-11-12,Consola de Videojuegos,Accesorios,10,178.7,Caracas,PayPal,1787.0
+840,2022-05-06,Computadora,Informática,3,188.51,Ciudad de México,Tarjeta de Crédito,565.53
+841,2023-09-03,Consola de Videojuegos,Telefonía,5,484.49,Caracas,Transferencia Bancaria,2422.45
+842,2022-01-10,Reloj Inteligente,Telefonía,1,137.67,Bogotá,Transferencia Bancaria,137.67
+843,2022-05-24,Reloj Inteligente,Telefonía,7,251.73,La Paz,Tarjeta de Crédito,1762.11
+844,2022-04-11,Tablet,Telefonía,7,922.8,La Paz,Efectivo,6459.599999999999
+845,2022-04-30,Reloj Inteligente,Accesorios,6,253.18,Caracas,Tarjeta de Crédito,1519.08
+846,2022-12-24,Cámara,Telefonía,9,797.81,La Paz,Transferencia Bancaria,7180.289999999999
+847,2023-01-03,Reloj Inteligente,Electrónica,3,1084.04,La Paz,PayPal,3252.12
+848,2023-12-27,Televisión,Telefonía,9,113.16,La Paz,Efectivo,1018.4399999999999
+849,2022-10-01,Computadora,Telefonía,6,1351.3,Bogotá,Efectivo,8107.799999999999
+850,2023-10-16,Cámara,Informática,10,1046.32,Lima,Tarjeta de Crédito,10463.199999999999
+851,2022-03-15,Bocina,Informática,3,126.0,Buenos Aires,PayPal,378.0
+852,2022-12-14,Reloj Inteligente,Accesorios,6,474.97,La Paz,PayPal,2849.82
+853,2023-11-01,Televisión,Informática,2,685.24,Quito,Efectivo,1370.48
+854,2023-05-05,Bocina,Accesorios,3,1140.57,Santiago,Efectivo,3421.71
+855,2022-08-19,Bocina,Electrónica,1,1230.01,Santiago,Transferencia Bancaria,1230.01
+856,2023-05-13,Televisión,Accesorios,5,86.07,Lima,Efectivo,430.34999999999997
+857,2022-06-30,Tablet,Accesorios,3,575.47,Santiago,Tarjeta de Crédito,1726.41
+858,2022-05-22,Consola de Videojuegos,Telefonía,3,733.88,Ciudad de México,Transferencia Bancaria,2201.64
+859,2022-03-18,Televisión,Electrónica,5,219.98,Lima,Efectivo,1099.8999999999999
+860,2022-11-12,Computadora,Accesorios,6,1066.26,Caracas,Tarjeta de Crédito,6397.5599999999995
+861,2023-09-05,Reloj Inteligente,Accesorios,7,1329.4,Ciudad de México,Efectivo,9305.800000000001
+862,2022-08-16,Bocina,Informática,8,936.49,Bogotá,PayPal,7491.92
+863,2022-07-11,Celular,Telefonía,9,1208.3,Quito,Tarjeta de Crédito,10874.699999999999
+864,2023-10-14,Bocina,Informática,9,223.85,Caracas,Tarjeta de Crédito,2014.6499999999999
+865,2022-03-19,Celular,Informática,7,908.12,La Paz,Efectivo,6356.84
+866,2022-05-21,Celular,Electrónica,2,982.83,Ciudad de México,Efectivo,1965.66
+867,2023-03-22,Computadora,Informática,3,1101.06,Bogotá,Transferencia Bancaria,3303.18
+868,2023-06-12,Celular,Telefonía,1,452.38,Caracas,PayPal,452.38
+869,2023-11-09,Celular,Electrónica,10,235.45,La Paz,Tarjeta de Crédito,2354.5
+870,2023-05-01,Cámara,Informática,1,940.79,Lima,Tarjeta de Crédito,940.79
+871,2023-11-15,Bocina,Telefonía,10,699.81,Ciudad de México,Tarjeta de Crédito,6998.099999999999
+872,2023-09-13,Consola de Videojuegos,Accesorios,6,522.11,Buenos Aires,Tarjeta de Crédito,3132.66
+873,2022-06-06,Computadora,Electrónica,7,1213.5,Buenos Aires,Transferencia Bancaria,8494.5
+874,2023-01-13,Computadora,Accesorios,6,531.05,Lima,Transferencia Bancaria,3186.2999999999997
+875,2022-03-13,Reloj Inteligente,Informática,3,899.81,Lima,Efectivo,2699.43
+876,2022-04-23,Reloj Inteligente,Telefonía,8,1363.92,Buenos Aires,Transferencia Bancaria,10911.36
+877,2023-02-08,Cámara,Accesorios,1,1103.13,La Paz,Tarjeta de Crédito,1103.13
+878,2022-09-25,Cámara,Electrónica,6,176.24,Caracas,PayPal,1057.44
+879,2022-11-16,Bocina,Informática,8,507.44,Ciudad de México,Tarjeta de Crédito,4059.52
+880,2023-10-11,Celular,Informática,1,1409.38,Bogotá,Tarjeta de Crédito,1409.38
+881,2023-02-01,Cámara,Informática,10,542.22,La Paz,PayPal,5422.200000000001
+882,2023-06-06,Cámara,Electrónica,5,204.3,Buenos Aires,PayPal,1021.5
+883,2023-09-29,Computadora,Accesorios,4,705.03,Ciudad de México,Tarjeta de Crédito,2820.12
+884,2023-03-17,Televisión,Telefonía,5,72.85,Lima,Tarjeta de Crédito,364.25
+885,2023-09-14,Reloj Inteligente,Informática,10,1491.09,Ciudad de México,Transferencia Bancaria,14910.9
+886,2023-01-05,Celular,Telefonía,10,753.01,La Paz,Transferencia Bancaria,7530.1
+887,2023-05-07,Consola de Videojuegos,Electrónica,10,655.06,Caracas,PayPal,6550.599999999999
+888,2022-01-23,Cámara,Accesorios,6,1010.82,Lima,Tarjeta de Crédito,6064.92
+889,2023-06-30,Celular,Electrónica,3,625.04,Santiago,Transferencia Bancaria,1875.12
+890,2023-02-01,Televisión,Informática,6,1054.61,Caracas,Efectivo,6327.66
+891,2023-11-11,Consola de Videojuegos,Informática,3,229.93,Caracas,Transferencia Bancaria,689.79
+892,2022-01-18,Computadora,Informática,8,630.05,Ciudad de México,Efectivo,5040.4
+893,2022-02-16,Reloj Inteligente,Telefonía,9,361.82,Caracas,Efectivo,3256.38
+894,2022-12-11,Cámara,Electrónica,4,1312.46,La Paz,Transferencia Bancaria,5249.84
+895,2022-09-04,Computadora,Accesorios,3,532.28,Lima,Tarjeta de Crédito,1596.84
+896,2022-09-19,Televisión,Telefonía,4,340.47,Caracas,PayPal,1361.88
+897,2022-04-04,Reloj Inteligente,Informática,9,1036.7,La Paz,Efectivo,9330.300000000001
+898,2022-12-04,Cámara,Accesorios,5,1248.3,Ciudad de México,Tarjeta de Crédito,6241.5
+899,2023-12-31,Televisión,Accesorios,2,422.62,Bogotá,PayPal,845.24
+900,2022-08-14,Televisión,Telefonía,6,142.9,Buenos Aires,PayPal,857.4000000000001
+901,2023-12-17,Computadora,Accesorios,7,404.2,Buenos Aires,PayPal,2829.4
+902,2022-05-04,Televisión,Telefonía,7,129.86,Buenos Aires,Tarjeta de Crédito,909.0200000000001
+903,2023-01-19,Televisión,Informática,10,887.09,Buenos Aires,Efectivo,8870.9
+904,2023-06-14,Reloj Inteligente,Telefonía,6,1206.46,Santiago,PayPal,7238.76
+905,2022-04-21,Tablet,Telefonía,7,588.79,Caracas,PayPal,4121.53
+906,2023-11-24,Cámara,Electrónica,2,323.7,Buenos Aires,PayPal,647.4
+907,2022-07-08,Tablet,Informática,2,711.37,Santiago,Transferencia Bancaria,1422.74
+908,2022-04-25,Computadora,Telefonía,5,255.92,Bogotá,Transferencia Bancaria,1279.6
+909,2022-05-26,Computadora,Informática,4,417.79,Ciudad de México,Efectivo,1671.16
+910,2022-03-06,Cámara,Electrónica,3,629.6,Ciudad de México,Transferencia Bancaria,1888.8000000000002
+911,2022-08-02,Cámara,Electrónica,1,297.34,Santiago,Transferencia Bancaria,297.34
+912,2023-10-22,Tablet,Electrónica,1,718.07,Ciudad de México,Tarjeta de Crédito,718.07
+913,2022-01-29,Celular,Informática,7,880.7,Santiago,Transferencia Bancaria,6164.900000000001
+914,2022-11-28,Consola de Videojuegos,Accesorios,4,986.62,Bogotá,Efectivo,3946.48
+915,2022-05-17,Tablet,Electrónica,7,455.28,Santiago,Efectivo,3186.96
+916,2023-10-16,Computadora,Telefonía,8,989.15,Quito,PayPal,7913.2
+917,2022-06-26,Tablet,Telefonía,2,696.98,Quito,Tarjeta de Crédito,1393.96
+918,2022-06-30,Cámara,Electrónica,6,827.88,Santiago,Efectivo,4967.28
+919,2023-06-09,Cámara,Informática,10,434.15,Bogotá,PayPal,4341.5
+920,2023-06-30,Tablet,Electrónica,8,1438.6,Quito,PayPal,11508.8
+921,2022-02-10,Bocina,Informática,4,612.02,Bogotá,Transferencia Bancaria,2448.08
+922,2023-06-18,Televisión,Electrónica,8,172.45,Quito,Efectivo,1379.6
+923,2022-02-14,Bocina,Electrónica,6,534.97,La Paz,Tarjeta de Crédito,3209.82
+924,2022-07-15,Tablet,Electrónica,7,414.06,Ciudad de México,PayPal,2898.42
+925,2022-04-03,Bocina,Informática,1,1158.19,Buenos Aires,Efectivo,1158.19
+926,2023-04-08,Cámara,Electrónica,6,1188.49,Santiago,Tarjeta de Crédito,7130.9400000000005
+927,2023-06-01,Celular,Informática,8,765.51,Quito,Transferencia Bancaria,6124.08
+928,2022-02-14,Cámara,Accesorios,10,721.36,La Paz,Transferencia Bancaria,7213.6
+929,2022-05-02,Consola de Videojuegos,Accesorios,9,1023.45,Bogotá,Efectivo,9211.050000000001
+930,2022-09-26,Computadora,Electrónica,2,913.31,Bogotá,PayPal,1826.62
+931,2022-10-06,Bocina,Accesorios,1,662.4,Bogotá,Efectivo,662.4
+932,2023-04-13,Reloj Inteligente,Accesorios,4,774.16,Santiago,PayPal,3096.64
+933,2022-11-14,Cámara,Accesorios,6,1343.94,Ciudad de México,Efectivo,8063.64
+934,2023-06-14,Televisión,Accesorios,3,1071.21,Bogotá,Transferencia Bancaria,3213.63
+935,2022-03-02,Computadora,Telefonía,1,966.24,Buenos Aires,PayPal,966.24
+936,2023-06-24,Consola de Videojuegos,Accesorios,1,1413.25,Quito,Tarjeta de Crédito,1413.25
+937,2022-06-21,Consola de Videojuegos,Telefonía,2,1359.39,Santiago,Transferencia Bancaria,2718.78
+938,2022-07-07,Reloj Inteligente,Telefonía,2,583.3,Lima,Efectivo,1166.6
+939,2022-01-16,Cámara,Electrónica,2,661.55,Buenos Aires,Transferencia Bancaria,1323.1
+940,2022-01-28,Cámara,Informática,6,510.16,Santiago,Transferencia Bancaria,3060.96
+941,2022-07-15,Reloj Inteligente,Informática,5,158.8,Quito,Transferencia Bancaria,794.0
+942,2023-02-21,Bocina,Informática,8,506.44,Quito,PayPal,4051.52
+943,2022-05-24,Tablet,Telefonía,9,352.09,Buenos Aires,PayPal,3168.81
+944,2022-02-28,Tablet,Accesorios,6,947.98,Ciudad de México,Efectivo,5687.88
+945,2022-02-12,Cámara,Telefonía,7,1402.66,Santiago,Efectivo,9818.62
+946,2023-06-30,Consola de Videojuegos,Electrónica,9,1204.66,Buenos Aires,PayPal,10841.94
+947,2022-03-09,Bocina,Telefonía,2,65.69,Buenos Aires,Transferencia Bancaria,131.38
+948,2023-08-15,Reloj Inteligente,Accesorios,10,216.33,Ciudad de México,Transferencia Bancaria,2163.3
+949,2023-05-16,Tablet,Telefonía,6,359.47,Caracas,Transferencia Bancaria,2156.82
+950,2022-03-01,Tablet,Electrónica,9,960.27,Buenos Aires,Efectivo,8642.43
+951,2023-06-10,Tablet,Informática,6,410.36,Buenos Aires,Transferencia Bancaria,2462.16
+952,2022-12-16,Televisión,Informática,2,499.02,Lima,Tarjeta de Crédito,998.04
+953,2022-04-03,Bocina,Electrónica,10,561.6,Caracas,Efectivo,5616.0
+954,2022-05-01,Computadora,Accesorios,6,242.74,Buenos Aires,Efectivo,1456.44
+955,2022-12-26,Reloj Inteligente,Informática,8,664.54,Santiago,Transferencia Bancaria,5316.32
+956,2022-09-23,Televisión,Electrónica,3,696.17,Caracas,Transferencia Bancaria,2088.5099999999998
+957,2023-03-12,Bocina,Accesorios,10,666.65,La Paz,Efectivo,6666.5
+958,2023-02-14,Cámara,Accesorios,4,156.49,Santiago,Transferencia Bancaria,625.96
+959,2023-12-01,Televisión,Telefonía,7,633.28,Ciudad de México,Transferencia Bancaria,4432.96
+960,2022-12-16,Cámara,Telefonía,7,1480.1,Ciudad de México,Tarjeta de Crédito,10360.699999999999
+961,2022-09-25,Bocina,Informática,1,1125.32,Santiago,Tarjeta de Crédito,1125.32
+962,2022-05-05,Bocina,Informática,9,1211.73,Ciudad de México,PayPal,10905.57
+963,2022-02-10,Televisión,Electrónica,9,947.22,La Paz,Transferencia Bancaria,8524.98
+964,2023-07-10,Celular,Electrónica,7,278.15,Lima,Transferencia Bancaria,1947.0499999999997
+965,2022-03-06,Cámara,Informática,8,1123.95,Lima,Tarjeta de Crédito,8991.6
+966,2023-02-01,Celular,Electrónica,8,675.33,Santiago,Tarjeta de Crédito,5402.64
+967,2023-06-04,Televisión,Accesorios,8,210.37,Quito,Efectivo,1682.96
+968,2022-08-22,Cámara,Informática,5,301.01,Caracas,Transferencia Bancaria,1505.05
+969,2022-08-13,Tablet,Telefonía,5,1114.42,Lima,PayPal,5572.1
+970,2022-05-18,Tablet,Accesorios,2,658.8,La Paz,PayPal,1317.6
+971,2023-06-05,Tablet,Accesorios,1,507.06,Lima,PayPal,507.06
+972,2023-02-15,Celular,Informática,4,200.41,Quito,PayPal,801.64
+973,2023-05-25,Reloj Inteligente,Electrónica,1,1242.01,Lima,PayPal,1242.01
+974,2022-04-30,Tablet,Telefonía,4,731.47,Quito,PayPal,2925.88
+975,2023-01-29,Televisión,Accesorios,3,1434.06,La Paz,PayPal,4302.18
+976,2022-07-15,Tablet,Informática,4,427.35,Quito,PayPal,1709.4
+977,2023-07-23,Televisión,Telefonía,4,1180.52,Buenos Aires,Tarjeta de Crédito,4722.08
+978,2023-11-10,Cámara,Informática,2,961.35,Quito,Transferencia Bancaria,1922.7
+979,2023-03-14,Televisión,Electrónica,1,514.85,La Paz,Transferencia Bancaria,514.85
+980,2023-09-27,Bocina,Electrónica,2,766.84,Santiago,Transferencia Bancaria,1533.68
+981,2023-04-06,Reloj Inteligente,Accesorios,4,57.34,Ciudad de México,Tarjeta de Crédito,229.36
+982,2022-09-17,Computadora,Telefonía,1,867.31,Bogotá,Efectivo,867.31
+983,2022-08-27,Consola de Videojuegos,Accesorios,1,1023.44,La Paz,PayPal,1023.44
+984,2022-03-08,Reloj Inteligente,Informática,2,640.12,Quito,Efectivo,1280.24
+985,2023-05-21,Computadora,Electrónica,2,272.23,Caracas,Efectivo,544.46
+986,2023-05-19,Cámara,Informática,10,294.41,Quito,Tarjeta de Crédito,2944.1000000000004
+987,2023-09-08,Televisión,Accesorios,1,285.71,Ciudad de México,Efectivo,285.71
+988,2022-05-20,Computadora,Electrónica,10,131.25,Santiago,PayPal,1312.5
+989,2023-04-14,Consola de Videojuegos,Informática,8,417.97,Santiago,Tarjeta de Crédito,3343.76
+990,2022-05-10,Celular,Accesorios,7,945.96,Caracas,Tarjeta de Crédito,6621.72
+991,2023-11-24,Consola de Videojuegos,Telefonía,9,200.51,Ciudad de México,PayPal,1804.59
+992,2022-10-31,Computadora,Telefonía,10,1450.63,Caracas,Tarjeta de Crédito,14506.300000000001
+993,2022-02-24,Cámara,Telefonía,2,371.31,Lima,Tarjeta de Crédito,742.62
+994,2023-08-18,Cámara,Electrónica,9,102.2,Buenos Aires,Tarjeta de Crédito,919.8000000000001
+995,2023-07-04,Celular,Telefonía,1,326.61,Caracas,Efectivo,326.61
+996,2022-03-05,Reloj Inteligente,Informática,5,1420.01,La Paz,Transferencia Bancaria,7100.05
+997,2023-11-07,Bocina,Accesorios,4,133.77,Bogotá,PayPal,535.08
+998,2022-07-03,Tablet,Informática,2,607.09,Lima,Transferencia Bancaria,1214.18
+999,2023-10-29,Consola de Videojuegos,Telefonía,3,775.2,Bogotá,Transferencia Bancaria,2325.6000000000004
+1000,2022-06-23,Tablet,Informática,1,581.16,Santiago,Tarjeta de Crédito,581.16
